@@ -104,6 +104,12 @@ namespace ReworkRegisterAPP
                     fNum = xNode.Attributes["display"].Value;
                     strArray = Ssort(fNum, strArray);
                     break;
+                case "processDetail":
+                    xNode = nod.SelectSingleNode("processDetail");
+                    strArray = xNode.Attributes["value"].Value.Split(',');
+                    //fNum = xNode.Attributes["display"].Value;
+                    //strArray = Ssort(fNum, strArray);
+                    break;
                 case "time":
                     xNode = nod.SelectSingleNode("time");
                     strArray = xNode.Attributes["value"].Value.Split(',');

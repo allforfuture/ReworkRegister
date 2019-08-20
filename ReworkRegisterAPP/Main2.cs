@@ -30,6 +30,7 @@ namespace ReworkRegisterAPP
         public Main2()
         {
             InitializeComponent();
+            Text += "_" + Application.ProductVersion.ToString();
             barcode_txt.Enabled = false;
             user_txt.Enabled = true;
 
@@ -166,6 +167,10 @@ namespace ReworkRegisterAPP
             string[] tmp = getDataFromXml.iniGetData(fPath, "process");
             process_cbx.DataSource = tmp;
             process_cbx.SelectedIndex = 0;
+
+            tmp = getDataFromXml.iniGetData(fPath, "processDetail");
+            processDetail_cbx.DataSource = tmp;
+            processDetail_cbx.SelectedIndex = 0;
 
             label1.Text =line_cbx.SelectedItem.ToString()+" --> "+ process_cbx.SelectedItem.ToString();
         }
@@ -680,7 +685,7 @@ namespace ReworkRegisterAPP
 
                 CsvFile csv = new CsvFile();
                 #region
-                csv.Model = "KK07";
+                csv.Model = System.Configuration.ConfigurationManager.AppSettings["Model"];//原来固定"KK07";
                 csv.Site = "NSTD";
 
                 string fPath = System.IO.Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + "\\Setting.xml";
@@ -911,6 +916,11 @@ namespace ReworkRegisterAPP
             UpLoadData();
             serials = new List<SnClass>();
             LoadserialsDGV();
+        }
+
+        private void processDetail_cbx_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            process_cbx.SelectedIndex = processDetail_cbx.SelectedIndex;
         }
     }
 

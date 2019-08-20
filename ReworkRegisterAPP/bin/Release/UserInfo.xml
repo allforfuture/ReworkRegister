@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <userinfo>
-  <item user="10006" password="9888&gt;i" role="super" />
+  <item user="10006" password="9888>i" role="super"/>
   <item user="test1" password="|m{|9" role="normal" />
-  <item user="admin" password="iluqv" role="normal" />
 </userinfo>

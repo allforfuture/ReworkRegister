@@ -4,7 +4,7 @@
   <description asmv2:iconFile="ooopic_1516666664.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="ReworkRegisterAPP" version="1.0.2.9" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="ReworkRegisterAPP" version="1.0.2.26" language="neutral" processorArchitecture="msil" />
     <commandLine file="ReworkRegisterAPP.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ReworkRegisterAPP.exe" size="243176">
-      <assemblyIdentity name="ReworkRegisterAPP" version="1.0.2.9" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ReworkRegisterAPP.exe" size="242688">
+      <assemblyIdentity name="ReworkRegisterAPP" version="1.0.2.26" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HORcf4p5jnH2wFR7eN6MOO/PG4Z8wE34SDMe0jXHURE=</dsig:DigestValue>
+        <dsig:DigestValue>/oKJp3ISV0WRnaN9b+pYCfhsS1sWN4mFeajE1xscdX4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -71,22 +71,22 @@
       <dsig:DigestValue>K9FcsUBmeSp+C+fpUxADrhFfr+d92ti11wl9nX7NLqM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ReworkRegisterAPP.exe.config" size="189">
+  <file name="ReworkRegisterAPP.exe.config" size="262">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+      <dsig:DigestValue>+rPBOAvCxDVWxzerHAhFwr0wzFaGgWY5S48LHhRilW0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Setting.xml" size="915" writeableType="applicationData">
+  <file name="Setting.xml" size="1058" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xc1/A6Tyudk5B+upA1hNokEHpL5RPM3BjBYV+rrlL7Q=</dsig:DigestValue>
+      <dsig:DigestValue>xn/OaVOa2/Gt0Sp2rh+e27PDabRrulB2pjWaJmkiJGs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="UserInfo.xml" size="178" writeableType="applicationData">
