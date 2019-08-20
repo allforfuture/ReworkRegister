@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NGCODE>
+  <process name="Cover">
+    <item id="1" code="Deformed Cover" name="上盖变形" />
+    <item id="2" code="Detached Coil" name="线圈脱落" />
+    <item id="3" code="Tilted Coil" name="线圈歪/偏" />
+    <item id="4" code="Reversed Coil" name="线圈装反" />
+    <item id="5" code="Damaged Coil" name="线圈伤" />
+    <item id="6" code="Wire outlet under coil" name="压线头" />
+    <item id="7" code="Soldering NG" name="焊锡不良" />
+    <item id="8" code="Short wire outlet" name="线头短" />
+    <item id="9" code="Broken Coil" name="断线" />
+    <item id="10" code="No resistance" name="无内阻" />
+    <item id="11" code="Resistance high" name="内阻大" />
+    <item id="12" code="Resistance low" name="内阻小" />
+    <item id="13" code="Insulation NG" name="绝缘不良" />
+    <item id="14" code="Burnt Internal Flex(Soldering)" name="FPC烧伤" />
+    <item id="15" code="Glue overflow" name="胶水溢出" />
+    <item id="16" code="Double Internal Flex" name="FPC贴重" />
+    <item id="17" code="Coil height NG" name="线圈高度不良" />
+    <item id="18" code="Damaged Cover" name="上盖伤" />
+    <item id="19" code="Offset Internal Flex" name="FPC偏" />
+    <item id="20" code="Damaged Internal Flex" name="FPC伤" />
+    <item id="21" code="Reversed Internal Flex" name="FPC贴反" />
+    <item id="22" code="Broken Internal Flex" name="FPC断" />
+    <item id="23" code="Loose Coil" name="线圈松" />
+    <item id="24" code="Solder balls attached to coil" name="线圈有锡" />
+    <item id="25" code="Damaged Hall Sensor" name="IC伤" />
+    <item id="26" code="Dirty coil" name="线圈脏" />
+    <item id="27" code="Deformed Coil" name="线圈变形" />
+    <item id="28" code="Crossed wire outlet" name="线圈交叉" />
+    <item id="29" code="Wrong coil location" name="线圈装错" />
+    <item id="30" code="Reversed Jumper Flex" name="结线贴反" />
+    <item id="31" code="Offset Hall Sensor position" name="IC偏" />
+    <item id="32" code="Damaged Jumper Flex" name="结线伤" />
+    <item id="33" code="Scratched coil" name="线圈划伤" />
+    <item id="34" code="Barcode scanning NG" name="二维码扫描不良" />
+    <item id="35" code="NTRS Fail" name="Fail" />
+    <item id="36" code="NTRS Skip" name="Skip" />
+    <item id="37" code="Others" name="其他" />
+    <item id="38" code="Exposed Copper Internal Flex" name="FPC漏铜" />
+    <item id="39" code="Double Jumper Flex" name="双结线" />
+    <item id="40" code="AE-1" name="AE-1" />
+    <item id="41" code="Cover finished products Return" name="成品上盖不良" />
+  </process>
+  <process name="Final">
+    <item id="1" code="Damaged External Flex" name="FPC伤/破损" />
+    <item id="2" code="Floated External Flex" name="FPC浮起" />
+    <item id="3" code="Exposed Copper External Flex" name="FPC漏铜" />
+    <item id="4" code="Offset External Flex" name="FPC偏" />
+    <item id="5" code="Welding point spatter" name="熔点飞溅" />
+    <item id="6" code="Welding point with hole" name="熔点有洞" />
+    <item id="7" code="Insulation tape attachment NG" name="绝缘片不良" />
+    <item id="8" code="Deformed Base" name="底板变形" />
+    <item id="9" code="Deformed External Flex Can" name="防护盖变形" />
+    <item id="10" code="Barcode marking NG" name="二维码打印不良" />
+    <item id="11" code="Scratched Barcode" name="二维码划伤" />
+    <item id="12" code="Deformed External Flex Connector" name="连接器变形" />
+    <item id="13" code="Damaged External Flex connector" name="连接器伤/压伤" />
+    <item id="14" code="Insulation NG" name="绝缘不良" />
+    <item id="15" code="Welding point NG" name="熔点不良" />
+    <item id="16" code="Gap NG(D-Frame-N Tab)" name="大托片外壳缝隙" />
+    <item id="17" code="Deformed Neg Tab" name="大托片变形" />
+    <item id="18" code="Deformed D-Frame" name="D型外壳变形" />
+    <item id="19" code="Deformed Pos Tab" name="小托片变形" />
+    <item id="20" code="Deformed metalic surface of connector" name="加固板变形" />
+    <item id="21" code="X-ray NG" name="X-Ray射线" />
+    <item id="22" code="Welding with burr" name="熔接起角" />
+    <item id="23" code="Gap NG(D-Frame-Pos Tab)" name="小托片外壳缝隙" />
+    <item id="24" code="Misaligned NG(Neg Tab)" name="大托片错位" />
+    <item id="25" code="Scratched Base" name="底板划伤" />
+    <item id="26" code="Others" name="其他" />
+    <item id="27" code="Got stuck" name="卡死" />
+    <item id="28" code="Offset Bottom Label" name="小化妆板偏" />
+    <item id="29" code="Damaged Pos Tab" name="小托片伤" />
+    <item id="30" code="Floated External Flex Can" name="防护盖浮起" />
+    <item id="31" code="Scratched D-Frame" name="D型外壳划伤" />
+    <item id="32" code="Damaged Insulation tape" name="绝缘片伤" />
+    <item id="33" code="Deformed Cover" name="上盖变形" />
+    <item id="34" code="External Flex with adhesive attached" name="FPC有胶" />
+    <item id="35" code="Broken External Flex" name="FPC断" />
+    <item id="36" code="Detached plating layer(Copper External Flex Connector) " name="连接器镀层脱落" />
+    <item id="37" code="Cover Label attachment NG" name="大化妆板起泡" />
+    <item id="38" code="Bottom Label attachment NG" name="底板标签气泡" />
+    <item id="39" code="Scratched Cover Label" name="大化妆板伤" />
+    <item id="40" code="Cover Label with print mark attached" name="大化妆板有印" />
+    <item id="41" code="Liner within Cover Label" name="大化妆板内衬纸" />
+    <item id="42" code="Scratched Bottom Label" name="底板标签伤" />
+    <item id="43" code="Foreign matter attached" name="异物" />
+    <item id="44" code="Scratched Base" name="底板划伤" />
+    <item id="45" code="Deformed Base" name="底板变形" />
+    <item id="46" code="Damaged Cover" name="上盖伤" />
+    <item id="47" code="Coplanarity NG" name="平面度不良" />
+    <item id="48" code="Flex tab removal NG" name="移除不良" />
+    <item id="49" code="Exposed Copper Insulation tape attachment" name="绝缘片漏洞" />
+    <item id="50" code="Exposed Hot Bar pad" name="漏焊盘" />
+    <item id="51" code="Tab height NG" name="AOI不良" />
+    <item id="52" code="Insulation tape attachment NG" name="绝缘片鼓包" />
+    <item id="53" code="Floated External Flex" name="FPC浮起" />
+    <item id="54" code="Damaged Insulation tape attachment" name="绝缘片破" />
+    <item id="55" code="Offset Insulation tape attachment" name="绝缘片偏" />
+    <item id="56" code="Floated Insulation tape attachment" name="绝缘片浮起" />
+    <item id="57" code="Damaged Base" name="底板伤" />
+    <item id="58" code="Offset Insulation tape attachment" name="绝缘片偏" />
+    <item id="59" code="Missed Insulation tape attachment " name="绝缘片漏贴" />
+    <item id="60" code="Damaged D-Frame" name="D型外壳伤" />
+    <item id="61" code="Gap NG (Welding)" name="熔接有缝" />
+    <item id="62" code="Internal Flex was Pressed" name="FPC压伤" />
+    <item id="63" code="Burnt Internal Flex" name="FPC烧伤" />
+    <item id="64" code="Welding point with hole" name="熔点有洞" />
+    <item id="65" code="Dent External Flex" name="FPC凹陷" />
+  </process>
+</NGCODE>

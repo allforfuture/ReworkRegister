@@ -1,0 +1,13 @@
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\bin\Release\ReworkRegisterWPF.exe
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\bin\Release\ReworkRegisterWPF.pdb
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\ReworkRegisterWPF.csprojResolveAssemblyReference.cache
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\MainWindow.g.cs
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\App.g.cs
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\ReworkRegisterWPF_MarkupCompile.cache
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\ReworkRegisterWPF_MarkupCompile.lref
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\MainWindow.baml
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\ReworkRegisterWPF.g.resources
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\ReworkRegisterWPF.Properties.Resources.resources
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\ReworkRegisterWPF.csproj.GenerateResource.Cache
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\ReworkRegisterWPF.exe
+D:\code\ReworkRegisterAPP\ReworkRegisterWPF\obj\Release\ReworkRegisterWPF.pdb

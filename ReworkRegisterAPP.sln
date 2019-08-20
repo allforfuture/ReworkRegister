@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COSMAPP", "ReworkRegisterAPP\COSMAPP.csproj", "{A83D2B2D-F4CC-447A-927D-62B5A051BF9C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "App_Setup", "App_Setup\App_Setup.vdproj", "{AC1618CD-9380-4B1C-8546-89B8D919BEC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83D2B2D-F4CC-447A-927D-62B5A051BF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83D2B2D-F4CC-447A-927D-62B5A051BF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83D2B2D-F4CC-447A-927D-62B5A051BF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83D2B2D-F4CC-447A-927D-62B5A051BF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1618CD-9380-4B1C-8546-89B8D919BEC0}.Debug|Any CPU.ActiveCfg = Debug
+		{AC1618CD-9380-4B1C-8546-89B8D919BEC0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

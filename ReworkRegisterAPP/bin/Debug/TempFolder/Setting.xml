@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <line display="L02" value="L01,L02,L03,L04,L05,L06,L07,L08,L09,L10,L11,L12,L13,L14,L15,L16,L17,L18"></line>
+  <process display="RE-16_00BE" value="RE-16_00BE,RE-16_00CI,RE-1,RE-4,RE-7,RE-16_20HB,RE-16_20CB" ></process>
+  <filepath path="C:\\csvOutput\\" ></filepath>
+  <validation char="FHA" length="17" substring="0,3"></validation>
+  <ftp ip="\\172.18.40.25\\C$\\public\\" user="administrator" password="" status="0" ></ftp>
+</root>

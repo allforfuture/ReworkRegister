@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <date display="现在" value="现在,今天,昨天"></date>
+  <factory display="factory" value="M-1"></factory>
+   <line display="L02" value="L01,L02,L03,L04,L05,L06,L07,L08,L09,L10,L11,L12,L13,L14,L15,L16,L17,L18"></line>
+  <process display="C-COSM" value="C-COSM,B-COSM,I-COSM,CA1-COSM,CA2-COSM,CA3-COSM,TU-COSM,D-COSM,CW-COSM,TA-COSM,H-COSM,VM-COSM,TR-COSM,F-COSM" ></process>
+  <time display="- -    " value="00:00:00,02:00:00,04:00:00,06:00:00,08:00:00,10:00:00,12:00:00,14:00:00,16:00:00,18:00:00,20:00:00,22:00:00"></time>
+
+  <filepath path="C:\\csvOutput\\" ></filepath>
+  <validation char="F" length="17" substring="0,1"></validation>
+  <ftp ip="\\172.18.40.25\\C$\\public\\" user="administrator" password="" status="0" ></ftp>
+  <!--<ftp ip="\\172.27.36.32\\F$\\ZAFKPUZ\\" user="kk07user" password="nstd@2018" status="0" ></ftp>-->
+</root>
