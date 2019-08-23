@@ -160,3 +160,4 @@ C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Release\COSMAPP.cspr
 C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Release\ReworkRegisterAPP.exe
 C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Release\ReworkRegisterAPP.pdb
 C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\bin\Release\Update\Update.json
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Release\COSMAPP.csprojAssemblyReference.cache

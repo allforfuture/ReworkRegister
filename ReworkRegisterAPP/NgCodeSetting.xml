@@ -81,7 +81,7 @@
     <item id="46"	 code="Barcode Scanning NG" name="二维码扫描不良" />
     <item id="47"	 code="NTRS Fail" name="Fail" />
     <item id="48"	 code="NTRS Skip" name="Skip" />
-    <item id="49"	 code="Etching NG(Cover)" name="上盖激光蚀刻不良" />
+    <item id="49"	 code="Etching NG（Cover）" name="上盖激光蚀刻不良" />
     <item id="50"	 code="Others" name="其它" />
   </C-COSM>
   <BS-COSM>
@@ -166,8 +166,9 @@
     <item id="48"	 code="Barcode Scanning NG" name="二维码扫描不良" />
     <item id="49"	 code="NTRS Fail" name="Fail" />
     <item id="50"	 code="NTRS Skip" name="Skip" />
-    <item id="51"	 code="Height NG" name="高度不良" />
-    <item id="52"	 code="Others" name="其它" />
+    <item id="51"	 code="Others" name="其它" />
+    <item id="52"	 code="Height NG" name="高度不良" />
+    <item id="53"	 code="Others" name="其它" />
   </B-COSM>
   <CA1-COSM>
     <item id="1"	 code="Protrusion welding point(Magnet plate)" name="背板熔点起包" />
@@ -330,70 +331,70 @@
     <item id="12"	 code="Others" name="其它" />
   </CLD-COSM>
   <I-COSM>
-    <item id="1"	 code="Offset welding point_MP_West_OM" name="熔点偏,背板/西/外" />
-    <item id="2"	 code="Offset welding point_MP_West_IM" name="熔点偏,背板/西/内" />
-    <item id="3"	 code="Offset welding point_MP_East_OM" name="熔点偏,背板/東/外" />
-    <item id="4"	 code="Offset welding point_MP_East_IM" name="熔点偏,背板/東/内" />
-    <item id="5"	 code="Offset welding point_MG_West_OM" name="熔点偏,磁鉄/西/外" />
-    <item id="6"	 code="Offset welding point_MG_West_IM" name="熔点偏,磁鉄/西/内" />
-    <item id="7"	 code="Offset welding point_MG_East_OM" name="熔点偏,磁鉄/東/外" />
-    <item id="8"	 code="Offset welding point_MG_East_IM" name="熔点偏,磁鉄/東/内" />
-    <item id="9"	 code="Missed welding point_MP_West_OM" name="漏熔点,背板/西/外" />
-    <item id="10"	 code="Missed welding point_MP_West_IM" name="漏熔点,背板/西/内" />
-    <item id="11"	 code="Missed welding point_MP_East_OM" name="漏熔点,背板/東/外" />
-    <item id="12"	 code="Missed welding point_MP_East_IM" name="漏熔点,背板/東/内" />
-    <item id="13"	 code="Missed welding point_MG_West_OM" name="漏熔点,磁鉄/西/外" />
-    <item id="14"	 code="Missed welding point_MG_West_IM" name="漏熔点,磁鉄/西/内" />
-    <item id="15"	 code="Missed welding point_MG_East_OM" name="漏熔点,磁鉄/東/外" />
-    <item id="16"	 code="Missed welding point_MG_East_IM" name="漏熔点,磁鉄/東/内" />
-    <item id="17"	 code="Deep welding point_MP_West_OM" name="熔点深,背板/西/外" />
-    <item id="18"	 code="Deep welding point_MP_West_IM" name="熔点深,背板/西/内" />
-    <item id="19"	 code="Deep welding point_MP_East_OM" name="熔点深,背板/東/外" />
-    <item id="20"	 code="Deep welding point_MP_East_IM" name="熔点深,背板/東/内" />
-    <item id="21"	 code="Deep welding point_MG_West_OM" name="熔点深,磁鉄/西/外" />
-    <item id="22"	 code="Deep welding point_MG_West_IM" name="熔点深,磁鉄/西/内" />
-    <item id="23"	 code="Deep welding point_MG_East_OM" name="熔点深,磁鉄/東/外" />
-    <item id="24"	 code="Deep welding point_MG_East_IM" name="熔点深,磁鉄/東/内" />
-    <item id="25"	 code="Shallow welding point_MP_West_OM" name="熔点浅,背板/西/外" />
-    <item id="26"	 code="Shallow welding point_MP_West_IM" name="熔点浅,背板/西/内" />
-    <item id="27"	 code="Shallow welding point_MP_East_OM" name="熔点浅,背板/東/外" />
-    <item id="28"	 code="Shallow welding point_MP_East_IM" name="熔点浅,背板/東/内" />
-    <item id="29"	 code="Shallow welding point_MG_West_OM" name="熔点浅,磁鉄/西/外" />
-    <item id="30"	 code="Shallow welding point_MG_West_IM" name="熔点浅,磁鉄/西/内" />
-    <item id="31"	 code="Shallow welding point_MG_East_OM" name="熔点浅,磁鉄/東/外" />
-    <item id="32"	 code="Shallow welding point_MG_East_IM" name="熔点浅,磁鉄/東/内" />
-    <item id="33"	 code="Protrusion welding point_MP_West_IM" name="熔点鼓包,背板/西/外" />
-    <item id="34"	 code="Protrusion welding point_MP_West_OM" name="熔点鼓包,背板/西/内" />
-    <item id="35"	 code="Protrusion welding point_MP_East_OM" name="熔点鼓包,背板/東/外" />
-    <item id="36"	 code="Protrusion welding point_MP_East_IM" name="熔点鼓包,背板/東/内" />
-    <item id="37"	 code="Protrusion welding point_MG_West_OM" name="熔点鼓包,磁鉄/西/外" />
-    <item id="38"	 code="Protrusion welding point_MG_West_IM" name="熔点鼓包,磁鉄/西/内" />
-    <item id="39"	 code="Protrusion welding point_MG_East_OM" name="熔点鼓包,磁鉄/東/外" />
-    <item id="40"	 code="Protrusion welding point_MG_East_IM" name="熔点鼓包,磁鉄/東/内" />
-    <item id="41"	 code="Welding point with hole_MP_West_OM" name="熔点有洞,背板/西/外" />
-    <item id="42"	 code="Welding point with hole_MP_West_IM" name="熔点有洞,背板/西/内" />
-    <item id="43"	 code="Welding point with hole_MP_East_OM" name="熔点有洞,背板/東/外" />
-    <item id="44"	 code="Welding point with hole_MP_East_IM" name="熔点有洞,背板/東/内" />
-    <item id="45"	 code="Welding point with hole_MG_West_OM" name="熔点有洞,磁鉄/西/外" />
-    <item id="46"	 code="Welding point with hole_MG_West_IM" name="熔点有洞,磁鉄/西/内" />
-    <item id="47"	 code="Welding point with hole_MG_East_OM" name="熔点有洞,磁鉄/東/外" />
-    <item id="48"	 code="Welding point with hole_MG_East_IM" name="熔点有洞,磁鉄/東/内" />
-    <item id="49"	 code="Welding with burr_MP_West_OM" name="熔接起角,背板/西/外" />
-    <item id="50"	 code="Welding with burr_MP_West_IM" name="熔接起角,背板/西/内" />
-    <item id="51"	 code="Welding with burr_MP_East_OM" name="熔接起角,背板/東/外" />
-    <item id="52"	 code="Welding with burr_MP_East_IM" name="熔接起角,背板/東/内" />
-    <item id="53"	 code="Welding with burr_MG_West_OM" name="熔接起角,磁鉄/西/外" />
-    <item id="54"	 code="Welding with burr_MG_West_IM" name="熔接起角,磁鉄/西/内" />
-    <item id="55"	 code="Welding with burr_MG_East_OM" name="熔接起角,磁鉄/東/外" />
-    <item id="56"	 code="Welding with burr_MG_East_IM" name="熔接起角,磁鉄/東/内" />
-    <item id="57"	 code="Welding point spatter_MP_West_OM" name="熔点飞溅,背板/西/外" />
-    <item id="58"	 code="Welding point spatter_MP_West_IM" name="熔点飞溅,背板/西/内" />
-    <item id="59"	 code="Welding point spatter_MP_East_OM" name="熔点飞溅,背板/東/外" />
-    <item id="60"	 code="Welding point spatter_MP_East_IM" name="熔点飞溅,背板/東/内" />
-    <item id="61"	 code="Welding point spatter_MG_West_OM" name="熔点飞溅,磁鉄/西/外" />
-    <item id="62"	 code="Welding point spatter_MG_West_IM" name="熔点飞溅,磁鉄/西/内" />
-    <item id="63"	 code="Welding point spatter_MG_East_OM" name="熔点飞溅,磁鉄/東/外" />
-    <item id="64"	 code="Welding point spatter_MG_East_IM" name="熔点飞溅,磁鉄/東/内" />
+    <item id="1"	 code="Offset welding point,MP/West/OM" name="熔点偏,背板/西/外" />
+    <item id="2"	 code="Offset welding point,MP/West/IM" name="熔点偏,背板/西/内" />
+    <item id="3"	 code="Offset welding point,MP/East/OM" name="熔点偏,背板/東/外" />
+    <item id="4"	 code="Offset welding point,MP/East/IM" name="熔点偏,背板/東/内" />
+    <item id="5"	 code="Offset welding point,MG/West/OM" name="熔点偏,磁鉄/西/外" />
+    <item id="6"	 code="Offset welding point,MG/West/IM" name="熔点偏,磁鉄/西/内" />
+    <item id="7"	 code="Offset welding point,MG/East/OM" name="熔点偏,磁鉄/東/外" />
+    <item id="8"	 code="Offset welding point,MG/East/IM" name="熔点偏,磁鉄/東/内" />
+    <item id="9"	 code="Missed welding point,MP/West/OM" name="漏熔点,背板/西/外" />
+    <item id="10"	 code="Missed welding point,MP/West/IM" name="漏熔点,背板/西/内" />
+    <item id="11"	 code="Missed welding point,MP/East/OM" name="漏熔点,背板/東/外" />
+    <item id="12"	 code="Missed welding point,MP/East/IM" name="漏熔点,背板/東/内" />
+    <item id="13"	 code="Missed welding point,MG/West/OM" name="漏熔点,磁鉄/西/外" />
+    <item id="14"	 code="Missed welding point,MG/West/IM" name="漏熔点,磁鉄/西/内" />
+    <item id="15"	 code="Missed welding point,MG/East/OM" name="漏熔点,磁鉄/東/外" />
+    <item id="16"	 code="Missed welding point,MG/East/IM" name="漏熔点,磁鉄/東/内" />
+    <item id="17"	 code="Deep welding point,MP/West/OM" name="熔点深,背板/西/外" />
+    <item id="18"	 code="Deep welding point,MP/West/IM" name="熔点深,背板/西/内" />
+    <item id="19"	 code="Deep welding point,MP/East/OM" name="熔点深,背板/東/外" />
+    <item id="20"	 code="Deep welding point,MP/East/IM" name="熔点深,背板/東/内" />
+    <item id="21"	 code="Deep welding point,MG/West/OM" name="熔点深,磁鉄/西/外" />
+    <item id="22"	 code="Deep welding point,MG/West/IM" name="熔点深,磁鉄/西/内" />
+    <item id="23"	 code="Deep welding point,MG/East/OM" name="熔点深,磁鉄/東/外" />
+    <item id="24"	 code="Deep welding point,MG/East/IM" name="熔点深,磁鉄/東/内" />
+    <item id="25"	 code="Shallow welding point,MP/West/OM" name="熔点浅,背板/西/外" />
+    <item id="26"	 code="Shallow welding point,MP/West/IM" name="熔点浅,背板/西/内" />
+    <item id="27"	 code="Shallow welding point,MP/East/OM" name="熔点浅,背板/東/外" />
+    <item id="28"	 code="Shallow welding point,MP/East/IM" name="熔点浅,背板/東/内" />
+    <item id="29"	 code="Shallow welding point,MG/West/OM" name="熔点浅,磁鉄/西/外" />
+    <item id="30"	 code="Shallow welding point,MG/West/IM" name="熔点浅,磁鉄/西/内" />
+    <item id="31"	 code="Shallow welding point,MG/East/OM" name="熔点浅,磁鉄/東/外" />
+    <item id="32"	 code="Shallow welding point,MG/East/IM" name="熔点浅,磁鉄/東/内" />
+    <item id="33"	 code="Protrusion welding point,MP/West/IM" name="熔点鼓包,背板/西/外" />
+    <item id="34"	 code="Protrusion welding point,MP/West/OM" name="熔点鼓包,背板/西/内" />
+    <item id="35"	 code="Protrusion welding point,MP/East/OM" name="熔点鼓包,背板/東/外" />
+    <item id="36"	 code="Protrusion welding point,MP/East/IM" name="熔点鼓包,背板/東/内" />
+    <item id="37"	 code="Protrusion welding point,MG/West/OM" name="熔点鼓包,磁鉄/西/外" />
+    <item id="38"	 code="Protrusion welding point,MG/West/IM" name="熔点鼓包,磁鉄/西/内" />
+    <item id="39"	 code="Protrusion welding point,MG/East/OM" name="熔点鼓包,磁鉄/東/外" />
+    <item id="40"	 code="Protrusion welding point,MG/East/IM" name="熔点鼓包,磁鉄/東/内" />
+    <item id="41"	 code="Welding point with hole,MP/West/OM" name="熔点有洞,背板/西/外" />
+    <item id="42"	 code="Welding point with hole,MP/West/IM" name="熔点有洞,背板/西/内" />
+    <item id="43"	 code="Welding point with hole,MP/East/OM" name="熔点有洞,背板/東/外" />
+    <item id="44"	 code="Welding point with hole,MP/East/IM" name="熔点有洞,背板/東/内" />
+    <item id="45"	 code="Welding point with hole,MG/West/OM" name="熔点有洞,磁鉄/西/外" />
+    <item id="46"	 code="Welding point with hole,MG/West/IM" name="熔点有洞,磁鉄/西/内" />
+    <item id="47"	 code="Welding point with hole,MG/East/OM" name="熔点有洞,磁鉄/東/外" />
+    <item id="48"	 code="Welding point with hole,MG/East/IM" name="熔点有洞,磁鉄/東/内" />
+    <item id="49"	 code="Welding with burr,MP/West/OM" name="熔接起角,背板/西/外" />
+    <item id="50"	 code="Welding with burr,MP/West/IM" name="熔接起角,背板/西/内" />
+    <item id="51"	 code="Welding with burr,MP/East/OM" name="熔接起角,背板/東/外" />
+    <item id="52"	 code="Welding with burr,MP/East/IM" name="熔接起角,背板/東/内" />
+    <item id="53"	 code="Welding with burr,MG/West/OM" name="熔接起角,磁鉄/西/外" />
+    <item id="54"	 code="Welding with burr,MG/West/IM" name="熔接起角,磁鉄/西/内" />
+    <item id="55"	 code="Welding with burr,MG/East/OM" name="熔接起角,磁鉄/東/外" />
+    <item id="56"	 code="Welding with burr,MG/East/IM" name="熔接起角,磁鉄/東/内" />
+    <item id="57"	 code="Welding point spatter,MP/West/OM" name="熔点飞溅,背板/西/外" />
+    <item id="58"	 code="Welding point spatter,MP/West/IM" name="熔点飞溅,背板/西/内" />
+    <item id="59"	 code="Welding point spatter,MP/East/OM" name="熔点飞溅,背板/東/外" />
+    <item id="60"	 code="Welding point spatter,MP/East/IM" name="熔点飞溅,背板/東/内" />
+    <item id="61"	 code="Welding point spatter,MG/West/OM" name="熔点飞溅,磁鉄/西/外" />
+    <item id="62"	 code="Welding point spatter,MG/West/IM" name="熔点飞溅,磁鉄/西/内" />
+    <item id="63"	 code="Welding point spatter,MG/East/OM" name="熔点飞溅,磁鉄/東/外" />
+    <item id="64"	 code="Welding point spatter,MG/East/IM" name="熔点飞溅,磁鉄/東/内" />
     <item id="65"	 code="Missed Bumper" name="漏减振器" />
     <item id="66"	 code="Missed Outer Mount" name="漏装外弹片" />
     <item id="67"	 code="Missed Hard Stop" name="漏装限位块" />
@@ -402,7 +403,7 @@
     <item id="70"	 code="Deformed Outer Mount" name="外弹片变形" />
     <item id="71"	 code="Deformed Hard Stop" name="限位板变形" />
     <item id="72"	 code="Deformed Spring Flexure" name="板簧变形" />
-    <item id="73"	 code="Detached Spring Flexure" name="板簧脱落(设备剪托片)" />
+    <item id="73"	 code="Detached Spring Flexure" name="板簧脱落(设备剪托片）" />
     <item id="74"	 code="Damaged Magnet plate" name="背板伤" />
     <item id="75"	 code="Scratched cage" name="振动架伤" />
     <item id="76"	 code="Incoming material NG (Cage)" name="振动架来料不良" />
@@ -483,70 +484,70 @@
     <item id="151"	 code="Others" name="其它" />
   </I-COSM>
   <IG-COSM>
-    <item id="1"	 code="Offset welding point_MP_West_OM" name="熔点偏,背板/西/外" />
-    <item id="2"	 code="Offset welding point_MP_West_IM" name="熔点偏,背板/西/内" />
-    <item id="3"	 code="Offset welding point_MP_East_OM" name="熔点偏,背板/東/外" />
-    <item id="4"	 code="Offset welding point_MP_East_IM" name="熔点偏,背板/東/内" />
-    <item id="5"	 code="Offset welding point_MG_West_OM" name="熔点偏,磁鉄/西/外" />
-    <item id="6"	 code="Offset welding point_MG_West_IM" name="熔点偏,磁鉄/西/内" />
-    <item id="7"	 code="Offset welding point_MG_East_OM" name="熔点偏,磁鉄/東/外" />
-    <item id="8"	 code="Offset welding point_MG_East_IM" name="熔点偏,磁鉄/東/内" />
-    <item id="9"	 code="Missed welding point_MP_West_IM" name="漏熔点,背板/西/外" />
-    <item id="10"	 code="Missed welding point_MP_West_IM" name="漏熔点,背板/西/内" />
-    <item id="11"	 code="Missed welding point_MP_East_OM" name="漏熔点,背板/東/外" />
-    <item id="12"	 code="Missed welding point_MP_East_IM" name="漏熔点,背板/東/内" />
-    <item id="13"	 code="Missed welding point_MG_West_OM" name="漏熔点,磁鉄/西/外" />
-    <item id="14"	 code="Missed welding point_MG_West_IM" name="漏熔点,磁鉄/西/内" />
-    <item id="15"	 code="Missed welding point_MG_East_OM" name="漏熔点,磁鉄/東/外" />
-    <item id="16"	 code="Missed welding point_MG_East_IM" name="漏熔点,磁鉄/東/内" />
-    <item id="17"	 code="Deep welding point_MP_West_IM" name="熔点深,背板/西/外" />
-    <item id="18"	 code="Deep welding point_MP_West_IM" name="熔点深,背板/西/内" />
-    <item id="19"	 code="Deep welding point_MP_East_OM" name="熔点深,背板/東/外" />
-    <item id="20"	 code="Deep welding point_MP_East_IM" name="熔点深,背板/東/内" />
-    <item id="21"	 code="Deep welding point_MG_West_OM" name="熔点深,磁鉄/西/外" />
-    <item id="22"	 code="Deep welding point_MG_West_IM" name="熔点深,磁鉄/西/内" />
-    <item id="23"	 code="Deep welding point_MG_East_OM" name="熔点深,磁鉄/東/外" />
-    <item id="24"	 code="Deep welding point_MG_East_IM" name="熔点深,磁鉄/東/内" />
-    <item id="25"	 code="Shallow welding point_MP_West_IM" name="熔点浅,背板/西/外" />
-    <item id="26"	 code="Shallow welding point_MP_West_IM" name="熔点浅,背板/西/内" />
-    <item id="27"	 code="Shallow welding point_MP_East_OM" name="熔点浅,背板/東/外" />
-    <item id="28"	 code="Shallow welding point_MP_East_IM" name="熔点浅,背板/東/内" />
-    <item id="29"	 code="Shallow welding point_MG_West_OM" name="熔点浅,磁鉄/西/外" />
-    <item id="30"	 code="Shallow welding point_MG_West_IM" name="熔点浅,磁鉄/西/内" />
-    <item id="31"	 code="Shallow welding point_MG_East_OM" name="熔点浅,磁鉄/東/外" />
-    <item id="32"	 code="Shallow welding point_MG_East_IM" name="熔点浅,磁鉄/東/内" />
-    <item id="33"	 code="Protrusion welding point_MP_West_IM" name="熔点鼓包,背板/西/外" />
-    <item id="34"	 code="Protrusion welding point_MP_West_IM" name="熔点鼓包,背板/西/内" />
-    <item id="35"	 code="Protrusion welding point_MP_East_OM" name="熔点鼓包,背板/東/外" />
-    <item id="36"	 code="Protrusion welding point_MP_East_IM" name="熔点鼓包,背板/東/内" />
-    <item id="37"	 code="Protrusion welding point_MG_West_OM" name="熔点鼓包,磁鉄/西/外" />
-    <item id="38"	 code="Protrusion welding point_MG_West_IM" name="熔点鼓包,磁鉄/西/内" />
-    <item id="39"	 code="Protrusion welding point_MG_East_OM" name="熔点鼓包,磁鉄/東/外" />
-    <item id="40"	 code="Protrusion welding point_MG_East_IM" name="熔点鼓包,磁鉄/東/内" />
-    <item id="41"	 code="Welding point with hole_MP_West_IM" name="熔点有洞,背板/西/外" />
-    <item id="42"	 code="Welding point with hole_MP_West_IM" name="熔点有洞,背板/西/内" />
-    <item id="43"	 code="Welding point with hole_MP_East_OM" name="熔点有洞,背板/東/外" />
-    <item id="44"	 code="Welding point with hole_MP_East_IM" name="熔点有洞,背板/東/内" />
-    <item id="45"	 code="Welding point with hole_MG_West_OM" name="熔点有洞,磁鉄/西/外" />
-    <item id="46"	 code="Welding point with hole_MG_West_IM" name="熔点有洞,磁鉄/西/内" />
-    <item id="47"	 code="Welding point with hole_MG_East_OM" name="熔点有洞,磁鉄/東/外" />
-    <item id="48"	 code="Welding point with hole_MG_East_IM" name="熔点有洞,磁鉄/東/内" />
-    <item id="49"	 code="Welding with burr_MP_West_IM" name="熔接起角,背板/西/外" />
-    <item id="50"	 code="Welding with burr_MP_West_IM" name="熔接起角,背板/西/内" />
-    <item id="51"	 code="Welding with burr_MP_East_OM" name="熔接起角,背板/東/外" />
-    <item id="52"	 code="Welding with burr_MP_East_IM" name="熔接起角,背板/東/内" />
-    <item id="53"	 code="Welding with burr_MG_West_OM" name="熔接起角,磁鉄/西/外" />
-    <item id="54"	 code="Welding with burr_MG_West_IM" name="熔接起角,磁鉄/西/内" />
-    <item id="55"	 code="Welding with burr_MG_East_OM" name="熔接起角,磁鉄/東/外" />
-    <item id="56"	 code="Welding with burr_MG_East_IM" name="熔接起角,磁鉄/東/内" />
-    <item id="57"	 code="Welding point spatter_MP_West_IM" name="熔点飞溅,背板/西/外" />
-    <item id="58"	 code="Welding point spatter_MP_West_IM" name="熔点飞溅,背板/西/内" />
-    <item id="59"	 code="Welding point spatter_MP_East_OM" name="熔点飞溅,背板/東/外" />
-    <item id="60"	 code="Welding point spatter_MP_East_IM" name="熔点飞溅,背板/東/内" />
-    <item id="61"	 code="Welding point spatter_MG_West_OM" name="熔点飞溅,磁鉄/西/外" />
-    <item id="62"	 code="Welding point spatter_MG_West_IM" name="熔点飞溅,磁鉄/西/内" />
-    <item id="63"	 code="Welding point spatter_MG_East_OM" name="熔点飞溅,磁鉄/東/外" />
-    <item id="64"	 code="Welding point spatter_MG_East_IM" name="熔点飞溅,磁鉄/東/内" />
+    <item id="1"	 code="Offset welding point,MP/West/OM" name="熔点偏,背板/西/外" />
+    <item id="2"	 code="Offset welding point,MP/West/IM" name="熔点偏,背板/西/内" />
+    <item id="3"	 code="Offset welding point,MP/East/OM" name="熔点偏,背板/東/外" />
+    <item id="4"	 code="Offset welding point,MP/East/IM" name="熔点偏,背板/東/内" />
+    <item id="5"	 code="Offset welding point,MG/West/OM" name="熔点偏,磁鉄/西/外" />
+    <item id="6"	 code="Offset welding point,MG/West/IM" name="熔点偏,磁鉄/西/内" />
+    <item id="7"	 code="Offset welding point,MG/East/OM" name="熔点偏,磁鉄/東/外" />
+    <item id="8"	 code="Offset welding point,MG/East/IM" name="熔点偏,磁鉄/東/内" />
+    <item id="9"	 code="Missed welding point,MP/West/IM" name="漏熔点,背板/西/外" />
+    <item id="10"	 code="Missed welding point,MP/West/IM" name="漏熔点,背板/西/内" />
+    <item id="11"	 code="Missed welding point,MP/East/OM" name="漏熔点,背板/東/外" />
+    <item id="12"	 code="Missed welding point,MP/East/IM" name="漏熔点,背板/東/内" />
+    <item id="13"	 code="Missed welding point,MG/West/OM" name="漏熔点,磁鉄/西/外" />
+    <item id="14"	 code="Missed welding point,MG/West/IM" name="漏熔点,磁鉄/西/内" />
+    <item id="15"	 code="Missed welding point,MG/East/OM" name="漏熔点,磁鉄/東/外" />
+    <item id="16"	 code="Missed welding point,MG/East/IM" name="漏熔点,磁鉄/東/内" />
+    <item id="17"	 code="Deep welding point,MP/West/IM" name="熔点深,背板/西/外" />
+    <item id="18"	 code="Deep welding point,MP/West/IM" name="熔点深,背板/西/内" />
+    <item id="19"	 code="Deep welding point,MP/East/OM" name="熔点深,背板/東/外" />
+    <item id="20"	 code="Deep welding point,MP/East/IM" name="熔点深,背板/東/内" />
+    <item id="21"	 code="Deep welding point,MG/West/OM" name="熔点深,磁鉄/西/外" />
+    <item id="22"	 code="Deep welding point,MG/West/IM" name="熔点深,磁鉄/西/内" />
+    <item id="23"	 code="Deep welding point,MG/East/OM" name="熔点深,磁鉄/東/外" />
+    <item id="24"	 code="Deep welding point,MG/East/IM" name="熔点深,磁鉄/東/内" />
+    <item id="25"	 code="Shallow welding point,MP/West/IM" name="熔点浅,背板/西/外" />
+    <item id="26"	 code="Shallow welding point,MP/West/IM" name="熔点浅,背板/西/内" />
+    <item id="27"	 code="Shallow welding point,MP/East/OM" name="熔点浅,背板/東/外" />
+    <item id="28"	 code="Shallow welding point,MP/East/IM" name="熔点浅,背板/東/内" />
+    <item id="29"	 code="Shallow welding point,MG/West/OM" name="熔点浅,磁鉄/西/外" />
+    <item id="30"	 code="Shallow welding point,MG/West/IM" name="熔点浅,磁鉄/西/内" />
+    <item id="31"	 code="Shallow welding point,MG/East/OM" name="熔点浅,磁鉄/東/外" />
+    <item id="32"	 code="Shallow welding point,MG/East/IM" name="熔点浅,磁鉄/東/内" />
+    <item id="33"	 code="Protrusion welding point,MP/West/IM" name="熔点鼓包,背板/西/外" />
+    <item id="34"	 code="Protrusion welding point,MP/West/IM" name="熔点鼓包,背板/西/内" />
+    <item id="35"	 code="Protrusion welding point,MP/East/OM" name="熔点鼓包,背板/東/外" />
+    <item id="36"	 code="Protrusion welding point,MP/East/IM" name="熔点鼓包,背板/東/内" />
+    <item id="37"	 code="Protrusion welding point,MG/West/OM" name="熔点鼓包,磁鉄/西/外" />
+    <item id="38"	 code="Protrusion welding point,MG/West/IM" name="熔点鼓包,磁鉄/西/内" />
+    <item id="39"	 code="Protrusion welding point,MG/East/OM" name="熔点鼓包,磁鉄/東/外" />
+    <item id="40"	 code="Protrusion welding point,MG/East/IM" name="熔点鼓包,磁鉄/東/内" />
+    <item id="41"	 code="Welding point with hole,MP/West/IM" name="熔点有洞,背板/西/外" />
+    <item id="42"	 code="Welding point with hole,MP/West/IM" name="熔点有洞,背板/西/内" />
+    <item id="43"	 code="Welding point with hole,MP/East/OM" name="熔点有洞,背板/東/外" />
+    <item id="44"	 code="Welding point with hole,MP/East/IM" name="熔点有洞,背板/東/内" />
+    <item id="45"	 code="Welding point with hole,MG/West/OM" name="熔点有洞,磁鉄/西/外" />
+    <item id="46"	 code="Welding point with hole,MG/West/IM" name="熔点有洞,磁鉄/西/内" />
+    <item id="47"	 code="Welding point with hole,MG/East/OM" name="熔点有洞,磁鉄/東/外" />
+    <item id="48"	 code="Welding point with hole,MG/East/IM" name="熔点有洞,磁鉄/東/内" />
+    <item id="49"	 code="Welding with burr,MP/West/IM" name="熔接起角,背板/西/外" />
+    <item id="50"	 code="Welding with burr,MP/West/IM" name="熔接起角,背板/西/内" />
+    <item id="51"	 code="Welding with burr,MP/East/OM" name="熔接起角,背板/東/外" />
+    <item id="52"	 code="Welding with burr,MP/East/IM" name="熔接起角,背板/東/内" />
+    <item id="53"	 code="Welding with burr,MG/West/OM" name="熔接起角,磁鉄/西/外" />
+    <item id="54"	 code="Welding with burr,MG/West/IM" name="熔接起角,磁鉄/西/内" />
+    <item id="55"	 code="Welding with burr,MG/East/OM" name="熔接起角,磁鉄/東/外" />
+    <item id="56"	 code="Welding with burr,MG/East/IM" name="熔接起角,磁鉄/東/内" />
+    <item id="57"	 code="Welding point spatter,MP/West/IM" name="熔点飞溅,背板/西/外" />
+    <item id="58"	 code="Welding point spatter,MP/West/IM" name="熔点飞溅,背板/西/内" />
+    <item id="59"	 code="Welding point spatter,MP/East/OM" name="熔点飞溅,背板/東/外" />
+    <item id="60"	 code="Welding point spatter,MP/East/IM" name="熔点飞溅,背板/東/内" />
+    <item id="61"	 code="Welding point spatter,MG/West/OM" name="熔点飞溅,磁鉄/西/外" />
+    <item id="62"	 code="Welding point spatter,MG/West/IM" name="熔点飞溅,磁鉄/西/内" />
+    <item id="63"	 code="Welding point spatter,MG/East/OM" name="熔点飞溅,磁鉄/東/外" />
+    <item id="64"	 code="Welding point spatter,MG/East/IM" name="熔点飞溅,磁鉄/東/内" />
     <item id="65"	 code="Missed Bumper" name="漏减振器" />
     <item id="66"	 code="Missed Outer Mount" name="漏装外弹片" />
     <item id="67"	 code="Missed Hard Stop" name="漏装限位块" />
@@ -555,7 +556,7 @@
     <item id="70"	 code="Deformed Outer Mount" name="外弹片变形" />
     <item id="71"	 code="Deformed Hard Stop" name="限位板变形" />
     <item id="72"	 code="Deformed Spring Flexure" name="板簧变形" />
-    <item id="73"	 code="Detached Spring Flexure" name="板簧脱落(设备剪托片)" />
+    <item id="73"	 code="Detached Spring Flexure" name="板簧脱落(设备剪托片）" />
     <item id="74"	 code="Damaged Magnet plate" name="背板伤" />
     <item id="75"	 code="Adhesive overflow" name="胶水溢出" />
     <item id="76"	 code="Missed adhesive apply" name="漏点胶" />
@@ -576,14 +577,14 @@
     <item id="91"	 code="Damaged Outer Mount" name="外弹片伤" />
     <item id="92"	 code="Barcode Scanning NG" name="二维码扫描不良" />
     <item id="93"	 code="Bumper attachment NG" name="自动机粘贴不良" />
-    <item id="94"	 code="Excess adhesive amount_MP_West" name="胶量多,背板/西" />
-    <item id="95"	 code="Excess adhesive amount_MP_East" name="胶量多,背板/東" />
-    <item id="96"	 code="Excess adhesive amount_MG_West" name="胶量多,磁鉄/西" />
-    <item id="97"	 code="Excess adhesive amount_MG_East" name="胶量多,磁鉄/東" />
-    <item id="98"	 code="Excess adhesive amount_MP_West" name="胶量少,背板/西" />
-    <item id="99"	 code="Excess adhesive amount_MP_East" name="胶量少,背板/東" />
-    <item id="100"	 code="Excess adhesive amount_MG_West" name="胶量少,磁鉄/西" />
-    <item id="101"	 code="Excess adhesive amount_MG_East" name="胶量少,磁鉄/東" />
+    <item id="94"	 code="Excess adhesive amount,MP/West" name="胶量多,背板/西" />
+    <item id="95"	 code="Excess adhesive amount,MP/East" name="胶量多,背板/東" />
+    <item id="96"	 code="Excess adhesive amount,MG/West" name="胶量多,磁鉄/西" />
+    <item id="97"	 code="Excess adhesive amount,MG/East" name="胶量多,磁鉄/東" />
+    <item id="98"	 code="Excess adhesive amount,MP/West" name="胶量少,背板/西" />
+    <item id="99"	 code="Excess adhesive amount,MP/East" name="胶量少,背板/東" />
+    <item id="100"	 code="Excess adhesive amount,MG/West" name="胶量少,磁鉄/西" />
+    <item id="101"	 code="Excess adhesive amount,MG/East" name="胶量少,磁鉄/東" />
     <item id="102"	 code="Adhesive on Cage" name="振动架有胶" />
     <item id="103"	 code="Adhesive on hard stop" name="硬限位板有胶" />
     <item id="104"	 code="Scratched Hard Stop" name="限位板刮伤" />
@@ -620,18 +621,18 @@
     <item id="1"	 code="L-Frame_FAI-5 X (X1-X2)" name="L-frame宽度 X(X1-X2)" />
     <item id="2"	 code="L-Frame_FAI-4 X (X3-X4)" name="L-frame宽度 X(X3-X4)" />
     <item id="3"	 code="L-Frame_FAI-5 X (X5-X6)" name="L-frame宽度 X(X5-X6)" />
-    <item id="4"	 code="L-Frame_FAI-1 L-Frame Height (X1)" name="L-frame高度(X1)" />
-    <item id="5"	 code="L-Frame_FAI-1 L-Frame Height (X2)" name="L-frame高度(X2)" />
-    <item id="6"	 code="L-Frame_FAI-1 L-Frame Height (X3)" name="L-frame高度(X3)" />
-    <item id="7"	 code="L-Frame_FAI-1 L-Frame Height (X4)" name="L-frame高度(X4)" />
-    <item id="8"	 code="L-Frame_FAI-1 L-Frame Height (X5)" name="L-frame高度(X5)" />
-    <item id="9"	 code="L-Frame_FAI-1 L-Frame Height (X6)" name="L-frame高度(X6)" />
-    <item id="10"	 code="L-Frame_FAI-1 L-Frame Height (Y1)" name="L-frame高度(Y1)" />
-    <item id="11"	 code="L-Frame_FAI-1 L-Frame Height (Y2)" name="L-frame高度(Y2)" />
-    <item id="12"	 code="L-Frame_FAI-1 L-Frame Height (Y3)" name="L-frame高度(Y3)" />
-    <item id="13"	 code="L-Frame_FAI-1 L-Frame Height (Y4)" name="L-frame高度(Y4)" />
-    <item id="14"	 code="L-Frame_FAI-1 L-Frame Height (Y5)" name="L-frame高度(Y5)" />
-    <item id="15"	 code="L-Frame_FAI-1 L-Frame Height (Y6)" name="L-frame高度(Y6)" />
+    <item id="4"	 code="L-Frame_FAI-1 L-Frame Height (X1)" name="L-frame高度（X1)" />
+    <item id="5"	 code="L-Frame_FAI-1 L-Frame Height (X2)" name="L-frame高度（X2)" />
+    <item id="6"	 code="L-Frame_FAI-1 L-Frame Height (X3)" name="L-frame高度（X3)" />
+    <item id="7"	 code="L-Frame_FAI-1 L-Frame Height (X4)" name="L-frame高度（X4)" />
+    <item id="8"	 code="L-Frame_FAI-1 L-Frame Height (X5)" name="L-frame高度（X5)" />
+    <item id="9"	 code="L-Frame_FAI-1 L-Frame Height (X6)" name="L-frame高度（X6)" />
+    <item id="10"	 code="L-Frame_FAI-1 L-Frame Height (Y1)" name="L-frame高度（Y1)" />
+    <item id="11"	 code="L-Frame_FAI-1 L-Frame Height (Y2)" name="L-frame高度（Y2)" />
+    <item id="12"	 code="L-Frame_FAI-1 L-Frame Height (Y3)" name="L-frame高度（Y3)" />
+    <item id="13"	 code="L-Frame_FAI-1 L-Frame Height (Y4)" name="L-frame高度（Y4)" />
+    <item id="14"	 code="L-Frame_FAI-1 L-Frame Height (Y5)" name="L-frame高度（Y5)" />
+    <item id="15"	 code="L-Frame_FAI-1 L-Frame Height (Y6)" name="L-frame高度（Y6)" />
     <item id="16"	 code="L-frame welding point spatter" name="外壳熔接熔点飞溅" />
     <item id="17"	 code="L-frame welding point offset" name="外壳熔接熔点偏" />
     <item id="18"	 code="L-frame welding point missed" name="外壳熔接漏熔点 " />
@@ -645,24 +646,23 @@
     <item id="26"	 code="Deformed L-Frame" name="外壳伤，变形" />
     <item id="27"	 code="Welding point with hole" name="熔点有洞" />
     <item id="28"	 code="Protrusion welding point" name="熔点鼓包" />
-    <item id="29"	 code="Others" name="其它" />
   </LF-COSM>
   <SW-COSM>
     <item id="1"	 code="L-Frame_FAI-5 X (X1-X2)" name="L-frame宽度 X(X1-X2)" />
     <item id="2"	 code="L-Frame_FAI-4 X (X3-X4)" name="L-frame宽度 X(X3-X4)" />
     <item id="3"	 code="L-Frame_FAI-5 X (X5-X6)" name="L-frame宽度 X(X5-X6)" />
-    <item id="4"	 code="L-Frame_FAI-1 L-Frame Height (X1)" name="L-frame高度(X1)" />
-    <item id="5"	 code="L-Frame_FAI-1 L-Frame Height (X2)" name="L-frame高度(X2)" />
-    <item id="6"	 code="L-Frame_FAI-1 L-Frame Height (X3)" name="L-frame高度(X3)" />
-    <item id="7"	 code="L-Frame_FAI-1 L-Frame Height (X4)" name="L-frame高度(X4)" />
-    <item id="8"	 code="L-Frame_FAI-1 L-Frame Height (X5)" name="L-frame高度(X5)" />
-    <item id="9"	 code="L-Frame_FAI-1 L-Frame Height (X6)" name="L-frame高度(X6)" />
-    <item id="10"	 code="L-Frame_FAI-1 L-Frame Height (Y1)" name="L-frame高度(Y1)" />
-    <item id="11"	 code="L-Frame_FAI-1 L-Frame Height (Y2)" name="L-frame高度(Y2)" />
-    <item id="12"	 code="L-Frame_FAI-1 L-Frame Height (Y3)" name="L-frame高度(Y3)" />
-    <item id="13"	 code="L-Frame_FAI-1 L-Frame Height (Y4)" name="L-frame高度(Y4)" />
-    <item id="14"	 code="L-Frame_FAI-1 L-Frame Height (Y5)" name="L-frame高度(Y5)" />
-    <item id="15"	 code="L-Frame_FAI-1 L-Frame Height (Y6)" name="L-frame高度(Y6)" />
+    <item id="4"	 code="L-Frame_FAI-1 L-Frame Height (X1)" name="L-frame高度（X1)" />
+    <item id="5"	 code="L-Frame_FAI-1 L-Frame Height (X2)" name="L-frame高度（X2)" />
+    <item id="6"	 code="L-Frame_FAI-1 L-Frame Height (X3)" name="L-frame高度（X3)" />
+    <item id="7"	 code="L-Frame_FAI-1 L-Frame Height (X4)" name="L-frame高度（X4)" />
+    <item id="8"	 code="L-Frame_FAI-1 L-Frame Height (X5)" name="L-frame高度（X5)" />
+    <item id="9"	 code="L-Frame_FAI-1 L-Frame Height (X6)" name="L-frame高度（X6)" />
+    <item id="10"	 code="L-Frame_FAI-1 L-Frame Height (Y1)" name="L-frame高度（Y1)" />
+    <item id="11"	 code="L-Frame_FAI-1 L-Frame Height (Y2)" name="L-frame高度（Y2)" />
+    <item id="12"	 code="L-Frame_FAI-1 L-Frame Height (Y3)" name="L-frame高度（Y3)" />
+    <item id="13"	 code="L-Frame_FAI-1 L-Frame Height (Y4)" name="L-frame高度（Y4)" />
+    <item id="14"	 code="L-Frame_FAI-1 L-Frame Height (Y5)" name="L-frame高度（Y5)" />
+    <item id="15"	 code="L-Frame_FAI-1 L-Frame Height (Y6)" name="L-frame高度（Y6)" />
     <item id="16"	 code="L-FRAME_FAI-7" name="FAI-7" />
     <item id="17"	 code="L-Frame_FAI-8 L-Frame outside - Stiffener" name="FAI-8" />
     <item id="18"	 code="L-Frame_FAI-9 Thickness L-Frame and Stiffener" name="FAI-9" />
@@ -689,7 +689,6 @@
     <item id="39"	 code="L-frame barcode marking light" name="外二维码打印浅" />
     <item id="40"	 code="Missed stiffener" name="漏增强板" />
     <item id="41"	 code="Double stiffener" name="双增强板" />
-    <item id="42"	 code="Others" name="其它" />
   </SW-COSM>
   <TU-COSM>
     <item id="1"	 code="Scratched L-frame" name="外壳伤" />
@@ -726,7 +725,6 @@
     <item id="32"	 code="FAI-7-L-Frame-Length(Y)" name="FAI-7" />
     <item id="33"	 code="FAI-4-L-Frame-Angle" name="FAI-4" />
     <item id="34"	 code="Welding point cracked" name="熔点裂" />
-    <item id="35"	 code="Others" name="其它" />
   </TU-COSM>
   <D-COSM>
     <item id="1"	 code="Barcode Scanning NG" name="二维码扫描异常" />
@@ -758,19 +756,18 @@
     <item id="27"	 code="Height NG(L-Frame-Bumper)Right" name="L-减震器到L外壳高度不良右" />
     <item id="28"	 code="Height NG(Soft Stop-Outer Mount)Right" name="软限位板到外弹片高度不良右" />
     <item id="29"	 code="Missed soft stop attachment" name="软限位板漏粘贴" />
-    <item id="30"	 code="DOCKING_FAI-28 Outer mount-Soft Stop (X_West)" name="外弹片-软限位板 (X)西" />
-    <item id="31"	 code="DOCKING_FAI-29 Outer mount-Soft Stop (X_East)" name="外弹片-软限位板 (X)东" />
-    <item id="32"	 code="DOCKING_FAI-30 L-Frame-Soft Stop (Y_West)" name="L-frame-软限位板 (Y)西" />
-    <item id="33"	 code="DOCKING_FAI-31 L-Frame-Soft Stop (Y_East)" name="L-frame-软限位板 (Y)东" />
-    <item id="34"	 code="DOCKING_FAI-32 L-Frame-Soft Stop (Z_West)" name="L-frame-软限位板 (Z)西" />
-    <item id="35"	 code="DOCKING_FAI-33 L-Frame-Soft Stop (Z_East)" name="L-frame-软限位板 (Z)东" />
-    <item id="36"	 code="DOCKING_FAI-34 L-Frame Bumper-Flexure (X_West)" name="L型外壳减震器-板簧(X)西" />
-    <item id="37"	 code="DOCKING_FAI-34 L-Frame Bumper-Flexure (X_East)" name="L型外壳减震器-板簧(X)东" />
-    <item id="38"	 code="DOCKING_FAI-35 Ladder Bumper-Flexure (X_West)" name="动子减震器到板簧(X)西" />
-    <item id="39"	 code="DOCKING_FAI-35 Ladder Bumper-Flexure (X_East)" name="动子减震器到板簧(X)东" />
-    <item id="40"	 code="DOCKING_FAI-36 Travel Gap (X_West)" name="动子减震器到软限位板(X)西" />
-    <item id="41"	 code="DOCKING_FAI-36 Travel Gap (X_East)" name="动子减震器到软限位板(X)东" />
-    <item id="42"	 code="Others" name="其它" />
+    <item id="30"	 code="DOCKING_FAI-28 Outer mount-Soft Stop (X,West)" name="外弹片-软限位板 (X)西" />
+    <item id="31"	 code="DOCKING_FAI-29 Outer mount-Soft Stop (X,East)" name="外弹片-软限位板 (X)东" />
+    <item id="32"	 code="DOCKING_FAI-30 L-Frame-Soft Stop (Y,West)" name="L-frame-软限位板 (Y)西" />
+    <item id="33"	 code="DOCKING_FAI-31 L-Frame-Soft Stop (Y,East)" name="L-frame-软限位板 (Y)东" />
+    <item id="34"	 code="DOCKING_FAI-32 L-Frame-Soft Stop (Z,West)" name="L-frame-软限位板 (Z)西" />
+    <item id="35"	 code="DOCKING_FAI-33 L-Frame-Soft Stop (Z,East)" name="L-frame-软限位板 (Z)东" />
+    <item id="36"	 code="DOCKING_FAI-34 L-Frame Bumper-Flexure (X,West)" name="L型外壳减震器-板簧（X)西" />
+    <item id="37"	 code="DOCKING_FAI-34 L-Frame Bumper-Flexure (X,East)" name="L型外壳减震器-板簧(X)东" />
+    <item id="38"	 code="DOCKING_FAI-35 Ladder Bumper-Flexure (X,West)" name="动子减震器到板簧(X)西" />
+    <item id="39"	 code="DOCKING_FAI-35 Ladder Bumper-Flexure (X,East)" name="动子减震器到板簧(X)东" />
+    <item id="40"	 code="DOCKING_FAI-36 Travel Gap (X,West)" name="动子减震器到软限位板（X）西" />
+    <item id="41"	 code="DOCKING_FAI-36 Travel Gap (X,East)" name="动子减震器到软限位板（X）东" />
   </D-COSM>
   <SS-COSM>
     <item id="1"	 code="Barcode Scanning NG" name="二维码扫描异常" />
@@ -802,31 +799,30 @@
     <item id="27"	 code="Height NG(L-Frame-Bumper)Right" name="L-减震器到L外壳高度不良右" />
     <item id="28"	 code="Height NG(Soft Stop-Outer Mount)Right" name="软限位板到外弹片高度不良右" />
     <item id="29"	 code="Missed soft stop attachment" name="软限位板漏粘贴" />
-    <item id="30"	 code="DOCKING_FAI-28 Outer mount - Soft Stop (X_West)" name="外弹片-软限位板 (X)西" />
-    <item id="31"	 code="DOCKING_FAI-29 Outer mount - Soft Stop (X_East)" name="外弹片-软限位板 (X)东" />
-    <item id="32"	 code="DOCKING_FAI-30 L-Frame - Soft Stop (Y_West)" name="L-frame-软限位板 (Y)西" />
-    <item id="33"	 code="DOCKING_FAI-31 L-Frame - Soft Stop (Y_East)" name="L-frame-软限位板 (Y)东" />
-    <item id="34"	 code="DOCKING_FAI-32 L-Frame - Soft Stop (Z_West)" name="L-frame-软限位板 (Z)西" />
-    <item id="35"	 code="DOCKING_FAI-33 L-Frame - Soft Stop (Z_East)" name="L-frame-软限位板 (Z)东" />
-    <item id="36"	 code="DOCKING_FAI-34 L-Frame Bumper - Flexure (X_West)" name="L型外壳减震器-板簧(X)西" />
-    <item id="37"	 code="DOCKING_FAI-34 L-Frame Bumper - Flexure (X_East)" name="L型外壳减震器-板簧(X)东" />
-    <item id="38"	 code="DOCKING_FAI-35 Ladder Bumper - Flexure (X_West)" name="动子减震器到板簧(X)西" />
-    <item id="39"	 code="DOCKING_FAI-35 Ladder Bumper - Flexure (X_East)" name="动子减震器到板簧(X)东" />
-    <item id="40"	 code="DOCKING_FAI-36 Travel Gap (X_West)" name="动子减震器到软限位板(X)西" />
-    <item id="41"	 code="DOCKING_FAI-36 Travel Gap (X_East)" name="动子减震器到软限位板(X)东" />
-    <item id="42"	 code="Others" name="其它" />
+    <item id="30"	 code="DOCKING_FAI-28 Outer mount - Soft Stop (X,West)" name="外弹片-软限位板 (X)西" />
+    <item id="31"	 code="DOCKING_FAI-29 Outer mount - Soft Stop (X,East)" name="外弹片-软限位板 (X)东" />
+    <item id="32"	 code="DOCKING_FAI-30 L-Frame - Soft Stop (Y,West)" name="L-frame-软限位板 (Y)西" />
+    <item id="33"	 code="DOCKING_FAI-31 L-Frame - Soft Stop (Y,East)" name="L-frame-软限位板 (Y)东" />
+    <item id="34"	 code="DOCKING_FAI-32 L-Frame - Soft Stop (Z,West)" name="L-frame-软限位板 (Z)西" />
+    <item id="35"	 code="DOCKING_FAI-33 L-Frame - Soft Stop (Z,East)" name="L-frame-软限位板 (Z)东" />
+    <item id="36"	 code="DOCKING_FAI-34 L-Frame Bumper - Flexure (X,West)" name="L型外壳减震器-板簧(X)西" />
+    <item id="37"	 code="DOCKING_FAI-34 L-Frame Bumper - Flexure (X,East)" name="L型外壳减震器-板簧(X)东" />
+    <item id="38"	 code="DOCKING_FAI-35 Ladder Bumper - Flexure (X,West)" name="动子减震器到板簧(X)西" />
+    <item id="39"	 code="DOCKING_FAI-35 Ladder Bumper - Flexure (X,East)" name="动子减震器到板簧(X)东" />
+    <item id="40"	 code="DOCKING_FAI-36 Travel Gap (X,West)" name="动子减震器到软限位板(X)西" />
+    <item id="41"	 code="DOCKING_FAI-36 Travel Gap (X,East)" name="动子减震器到软限位板(X)东" />
   </SS-COSM>
   <BW-COSM>
     <item id="1"	 code="FAI39-1(LU) Height Cage-Cover Z1" name="FAI39-Z1(上盖)/39-Z1" />
     <item id="2"	 code="FAI39-2(LD) Height Cage-Cover Z2" name="FAI39-Z2(上盖)/39-Z2" />
     <item id="3"	 code="FAI39-3(RU) Height Cage-Cover Z3" name="FAI39-Z3(上盖)/39-Z3" />
     <item id="4"	 code="FAI39-4(RD) Height Cage-Cover Z4" name="FAI39-Z4(上盖)/39-Z4" />
-    <item id="5"	 code="Motor flatness C-1 NG(Cover)" name="列1(上盖)" />
+    <item id="5"	 code="Motor flatness C-1 NG(Cover)" name="列1（上盖）" />
     <item id="6"	 code="FAI41-4(LU) Height Cage-Base Z5" name="FAI26-4(底板)/41-Z5" />
     <item id="7"	 code="FAI41-3(LD) Height Cage-Base Z6" name="FAI26-3(底板)/41-Z6" />
     <item id="8"	 code="FAI41-2(RU) Height Cage-Base Z7" name="FAI25-2(底板)41-Z7" />
     <item id="9"	 code="FAI41-1(RD) Height Cage-Base Z8" name="FAI25-1(底板)41-Z8" />
-    <item id="10"	 code="Motor flatness C-1 NG(Base)" name="列1(底板)" />
+    <item id="10"	 code="Motor flatness C-1 NG(Base)" name="列1（底板）" />
     <item id="11"	 code="MOTOR_Y_GAP_Q1" name="FAI-45/43" />
     <item id="12"	 code="MOTOR_Y_GAP_Q2" name="FAI-46/44" />
     <item id="13"	 code="MOTOR_Y_GAP_Q3" name="FAI-47/45" />
@@ -869,7 +865,6 @@
     <item id="50"	 code="Broken External Flex" name="上盖FPC断" />
     <item id="51"	 code="AE-63-Height " name="AE-63" />
     <item id="52"	 code="AAE-9-Profile-Z" name="AAE-9" />
-    <item id="53"	 code="Others" name="其它" />
   </BW-COSM>
   <TA-COSM>
     <item id="1"	 code="Welding with burr(East Tab)" name="东托片熔接起角" />
@@ -915,8 +910,8 @@
     <item id="41"	 code="Offset Barcode Marking" name="二维码打印偏" />
     <item id="42"	 code="Double Barcode Marking " name="二维码打重印" />
     <item id="43"	 code="Barcode rank NG" name="二维码等级不良" />
-    <item id="44"	 code="MOTOR_FAI-57-East Tab Height-Average Base Datum" name="托片高度不良(东)" />
-    <item id="45"	 code="MOTOR_FAI-56-West Tab Height-Average Base Datum" name="托片高度不良(西)" />
+    <item id="44"	 code="MOTOR_FAI-57-East Tab Height-Average Base Datum" name="托片高度不良（东）" />
+    <item id="45"	 code="MOTOR_FAI-56-West Tab Height-Average Base Datum" name="托片高度不良（西）" />
     <item id="46"	 code="MOTOR_FAI-51 West tab hole to datum B(Y)" name="FAI-51B(Y)" />
     <item id="47"	 code="MOTOR_FAI-53 East tab hole to datum B(Y)" name="FAI-53" />
     <item id="48"	 code="MOTOR_FAI-96 East tab hole to West tab hole(X)" name="FAI-96" />
@@ -930,7 +925,6 @@
     <item id="56"	 code="MOTOR_FAI-50-C3_C6 Motor length(Y)" name="FAI-50-C3_C6" />
     <item id="57"	 code="MOTOR_FAI-50_MAX Motor length(Y)" name="FAI-50_MAX" />
     <item id="58"	 code="FAI-98-West Tab hole to L-Frame X" name="FAI-98" />
-    <item id="59"	 code="Others" name="其它" />
   </TA-COSM>
   <H-COSM>
     <item id="1"	 code="No Resistance" name="无内阻" />
@@ -960,13 +954,13 @@
     <item id="25"	 code="Foreign matter attached on Insulation tape" name="绝缘片异物" />
     <item id="26"	 code="Flex carrier tab cutting NG" name="底板FPC移除不良" />
     <item id="27"	 code="Insufficient hot bar solder coverage(Less than 50%)" name="焊盘锡低于50%" />
-    <item id="28"	 code="Protrusion welding point(L-frame)" name="L型外壳熔点鼓包" />
-    <item id="29"	 code="Welding point with hole(L-frame)" name="L型外壳熔点有洞" />
+    <item id="28"	 code="Protrusion welding point（L-frame）" name="L型外壳熔点鼓包" />
+    <item id="29"	 code="Welding point with hole（L-frame）" name="L型外壳熔点有洞" />
     <item id="30"	 code="Missed L-frame welding points" name="L型外壳熔点少" />
     <item id="31"	 code="Welding point spatter(L-frame)" name="L型外壳熔点飞溅" />
     <item id="32"	 code="Offset welding point(L-frame)" name="L型外壳熔接点偏" />
     <item id="33"	 code="Welding point crack(L-frame)" name="L型外壳熔点裂" />
-    <item id="34"	 code="Welding with burr(L-frame)" name="L型外壳熔接起角" />
+    <item id="34"	 code="Welding with burr（L-frame）" name="L型外壳熔接起角" />
     <item id="35"	 code="L-frame and Cover misalignment" name="L型与上盖错位" />
     <item id="36"	 code="L-frame and Base misalignment" name="L型与底板错位" />
     <item id="37"	 code="Scratched L-frame" name="L型外壳伤" />
@@ -991,7 +985,6 @@
     <item id="56"	 code="Scratched West Tab" name="西托片划伤" />
     <item id="57"	 code="Deformed East Tab" name="东托片变形" />
     <item id="58"	 code="Deformed West Tab" name="西托片变形" />
-    <item id="59"	 code="Others" name="其它" />
   </H-COSM>
   <ST-COSM>
     <item id="1"	 code="Welding with burr(South Tab)" name="南托片熔接起角" />
@@ -1007,7 +1000,7 @@
     <item id="11"	 code="MOTOR_FAI-95 West Tab hole to South Tab hole(Y)" name="FAI-95" />
     <item id="12"	 code="MOTOR_FAI-55 West Tab hole to South Tab hole(X)" name="FAI-55" />
     <item id="13"	 code="MOTOR_FAI-104 West Tab hole to South Tab wall(X)" name="FAI-104" />
-    <item id="14"	 code="MOTOR_FAI-58-South Tab Height-Average Base Datum" name="托片高度不良(南)" />
+    <item id="14"	 code="MOTOR_FAI-58-South Tab Height-Average Base Datum" name="托片高度不良（南）" />
     <item id="15"	 code="Damaged External Flex" name="底板FPC伤/破损" />
     <item id="16"	 code="Broken External Flex" name="底板FPC断" />
     <item id="17"	 code="Floated Externa Flex(HAF area)" name="底板FPC浮起(HAF浮起)" />
@@ -1031,13 +1024,13 @@
     <item id="35"	 code="Foreign matter attached on Insulation tape" name="绝缘片异物" />
     <item id="36"	 code="Flex carrier tab cutting NG" name="底板FPC移除不良" />
     <item id="37"	 code="Insufficient hot bar solder coverage(Less than 50%)" name="焊盘锡低于50%" />
-    <item id="38"	 code="Protrusion welding point(L-frame)" name="L型外壳熔点鼓包" />
-    <item id="39"	 code="Welding point with hole(L-frame)" name="L型外壳熔点有洞" />
+    <item id="38"	 code="Protrusion welding point（L-frame）" name="L型外壳熔点鼓包" />
+    <item id="39"	 code="Welding point with hole（L-frame）" name="L型外壳熔点有洞" />
     <item id="40"	 code="Missed L-frame welding points" name="L型外壳熔点少" />
     <item id="41"	 code="Welding point spatter(L-frame)" name="L型外壳熔点飞溅" />
     <item id="42"	 code="Offset welding point(L-frame)" name="L型外壳熔接点偏" />
     <item id="43"	 code="Welding point crack(L-frame)" name="L型外壳熔点裂" />
-    <item id="44"	 code="Welding with burr(L-frame)" name="L型外壳熔接起角" />
+    <item id="44"	 code="Welding with burr（L-frame）" name="L型外壳熔接起角" />
     <item id="45"	 code="L-frame and Cover misalignment" name="L型与上盖错位" />
     <item id="46"	 code="L-frame and Base misalignment" name="L型与底板错位" />
     <item id="47"	 code="Scratched L-frame" name="L型外壳伤" />
@@ -1062,7 +1055,6 @@
     <item id="66"	 code="Scratched West Tab" name="西托片划伤" />
     <item id="67"	 code="Deformed East Tab" name="东托片变形" />
     <item id="68"	 code="Deformed West Tab" name="西托片变形" />
-    <item id="69"	 code="Others" name="其它" />
   </ST-COSM>
   <EA-COSM>
     <item id="1"	 code="Damaged External Flex" name="底板FPC伤/破损" />
@@ -1076,10 +1068,10 @@
     <item id="9"	 code="Deformed External Flex Can" name="防护盖变形" />
     <item id="10"	 code="Offset Barcode Marking " name="二维码打印偏" />
     <item id="11"	 code="Scratched Barcode" name="二维码划伤" />
-    <item id="12"	 code="Protrusion welding point(L-frame)" name="L型外壳熔点鼓包" />
-    <item id="13"	 code="Welding point with hole(L-frame)" name="L型外壳熔点有洞" />
+    <item id="12"	 code="Protrusion welding point（L-frame）" name="L型外壳熔点鼓包" />
+    <item id="13"	 code="Welding point with hole（L-frame）" name="L型外壳熔点有洞" />
     <item id="14"	 code="Missed L-frame welding points" name="L型外壳熔点少" />
-    <item id="15"	 code="Welding with burr(L-frame)" name="L型外壳熔接起角" />
+    <item id="15"	 code="Welding with burr（L-frame）" name="L型外壳熔接起角" />
     <item id="16"	 code="L-frame and Cover misalignment" name="L型与上盖错位" />
     <item id="17"	 code="L-frame and Base misalignment" name="L型与底板错位" />
     <item id="18"	 code="Scratched L-frame" name="L型外壳伤" />
@@ -1142,85 +1134,82 @@
     <item id="75"	 code="Flex carrier tab miss cutting" name="底板FPC移除不良" />
     <item id="76"	 code="NTRS Fail" name="NTRS不良" />
     <item id="77"	 code="Etching NG(Cover)" name="上盖蚀刻发黑" />
-    <item id="78"	 code="Others" name="其它" />
   </EA-COSM>
   <VM-COSM>
-    <item id="1"	 code="AET_KM_ChirpAET_MotorConstant" name="V-M" />
-    <item id="2"	 code="Common_WriteCalDataToOTP_WriteCheck" name="V-W" />
-    <item id="3"	 code="Rdc_ImpedanceTest_Resistance" name="V-R" />
-    <item id="4"	 code="RD_Q_RingDownTest_QFactor" name="V-Q" />
-    <item id="5"	 code="Common_ChirpAET_EngineEfficiency" name="V-E" />
-    <item id="6"	 code="Common_TestFlagUpdateToOTP_flagUpdateCheck" name="V-F" />
-    <item id="7"	 code="RD_F0_RingDownTest_F0_ZeroCrossing" name="V-F0" />
-    <item id="8"	 code="CDTFTest_Generate_Cliff_Mask_155Hz_300Hz_Max" name="V-M" />
-    <item id="9"	 code="HESLinearity_HESLinearityTest_HallPositionMagnitude" name="V-H" />
-    <item id="10"	 code="HallRdc_HESCal_HallResistance_Top" name="V-H" />
-    <item id="11"	 code="RD_F0_RingDownTest_F0_ZeroCrossing-Range" name="V-F0" />
-    <item id="12"	 code="Common_ReadCalDataFromOTP_testError" name="L-T" />
-    <item id="13"	 code="Common_ImpedanceTest_hes_offset_top" name="L-H" />
-    <item id="14"	 code="Common_ImpedanceTest_hes_res_top" name="L-H" />
-    <item id="15"	 code="Common_TesterSetup_moduleAttach" name="L-M" />
-    <item id="16"	 code="Common_ImpedanceTest_I2S_Check" name="L-I" />
-    <item id="17"	 code="Rdc_ImpedanceTest_Resistance" name="L-R" />
-    <item id="18"	 code="Common_TesterSetup_I2C_Check" name="L-I" />
-    <item id="19"	 code="Common_TestFlagClear_testError" name="L-T" />
-    <item id="20"	 code="Others" name="其它" />
+    <item id="1"	 code="AET_KM::ChirpAET::MotorConstant" name="V-M" />
+    <item id="2"	 code="Common::WriteCalDataToOTP::WriteCheck" name="V-W" />
+    <item id="3"	 code="Rdc::ImpedanceTest::Resistance" name="V-R" />
+    <item id="4"	 code="RD_Q::RingDownTest::QFactor" name="V-Q" />
+    <item id="5"	 code="Common::ChirpAET::EngineEfficiency" name="V-E" />
+    <item id="6"	 code="Common::TestFlagUpdateToOTP::flagUpdateCheck" name="V-F" />
+    <item id="7"	 code="RD_F0::RingDownTest::F0_ZeroCrossing" name="V-F0" />
+    <item id="8"	 code="CDTFTest::Generate_Cliff::Mask_155Hz_300Hz_Max" name="V-M" />
+    <item id="9"	 code="HESLinearity::HESLinearityTest::HallPositionMagnitude" name="V-H" />
+    <item id="10"	 code="HallRdc::HESCal::HallResistance_Top" name="V-H" />
+    <item id="11"	 code="RD_F0::RingDownTest::F0_ZeroCrossing-Range" name="V-F0" />
+    <item id="12"	 code="Common::ReadCalDataFromOTP::testError" name="L-T" />
+    <item id="13"	 code="Common::ImpedanceTest::hes_offset_top" name="L-H" />
+    <item id="14"	 code="Common::ImpedanceTest::hes_res_top" name="L-H" />
+    <item id="15"	 code="Common::TesterSetup::moduleAttach" name="L-M" />
+    <item id="16"	 code="Common::ImpedanceTest::I2S_Check" name="L-I" />
+    <item id="17"	 code="Rdc::ImpedanceTest::Resistance" name="L-R" />
+    <item id="18"	 code="Common::TesterSetup::I2C_Check" name="L-I" />
+    <item id="19"	 code="Common::TestFlagClear::testError" name="L-T" />
   </VM-COSM>
   <TR-COSM>
-    <item id="1"	 code="TravelMarginTest_TMTest_Delta_87_AWL" name="T-D" />
-    <item id="2"	 code="Sweep_SQ_CLTest_Sweep_ImpactSecondaryMag12k_Max80to325" name="T-S" />
-    <item id="3"	 code="Sweep_SQ_CLTest_Sweep_ImpactPrimaryMag12k_Max80to325" name="T-S" />
-    <item id="4"	 code="Rdc_ImpedanceTest_Resistance" name="T-R" />
-    <item id="5"	 code="Sweep_AWL_CLTest_Sweep_AWL_Max80to325" name="T-S" />
-    <item id="6"	 code="Sweep_SQ_CLTest2_Sweep_ImpactPrimaryMag12k_Max80to325" name="T-S" />
-    <item id="7"	 code="Sweep_FR_CLTest6_Sweep_FRSpectrumMask1_80Hz_155Hz_Max-Mag" name="T-S" />
-    <item id="8"	 code="HallOffset_ImpedanceTest_HallOffset_Sum_Um" name="T-H" />
-    <item id="9"	 code="TravelMarginTest_TMTest_Delta_885_AWL" name="T-D" />
-    <item id="10"	 code="TravelMarginTest_TMTest_AWL_87" name="T-A" />
-    <item id="11"	 code="TravelMarginTest_TMTest_AWL_885" name="T-A" />
-    <item id="12"	 code="Sweep_AWL_CLTest6_Sweep_AWL_Max80to325" name="T-S" />
-    <item id="13"	 code="Sweep_SQ_CLTest2_Sweep_ImpactSecondaryMag12k_Max80to325" name="T-S" />
-    <item id="14"	 code="Sweep_AWL_CLTest5_Sweep_AWL_Max80to325" name="T-S" />
-    <item id="15"	 code="TravelMarginTest_TMTest_AWL_Baseline" name="T-A" />
-    <item id="16"	 code="Sweep_SQ_CLTest5_Sweep_ImpactPrimaryMag12k_Max80to325" name="T-S" />
-    <item id="17"	 code="Sweep_FR_CLTest2_Sweep_FRSpectrumMask1_80Hz_155Hz_Max-Mag" name="T-S" />
-    <item id="18"	 code="Sweep_SQ_CLTest6_Sweep_ImpactPrimaryMag12k_Max80to325" name="T-S" />
-    <item id="19"	 code="MiniTap_AWL_CLTest5_MiniTap80Hz_AWeightedSPL" name="T-M" />
-    <item id="20"	 code="Sweep_AWL_CLTest2_Sweep_AWL_Max80to325" name="T-S" />
-    <item id="21"	 code="MiniTap_AWL_CLTest5_MiniTap150Hz_AWeightedSPL-Range" name="T-M" />
-    <item id="22"	 code="Common_ImpedanceTest_VMON" name="T-V" />
-    <item id="23"	 code="Sweep_FR_CLTest_Sweep_FRSpectrumMask2_155Hz_300Hz_Min-Mag" name="T-S" />
-    <item id="24"	 code="Common_TesterSetup_moduleAttach" name="T-M" />
-    <item id="25"	 code="Common_CLTest_Sweep_BPMode600To700_Spectrum_Result" name="T-S" />
-    <item id="26"	 code="Common_ImpedanceTest_I2S_Check" name="T-I" />
-    <item id="27"	 code="Common_CLTest5_Sweep_BPMode495To600_Spectrum_Result" name="T-S" />
-    <item id="28"	 code="Common_CLTest6_Sweep_BPMode600To700_Spectrum_Result" name="T-S" />
-    <item id="29"	 code="Common_CLTest_Sweep_BPMode495To600_Spectrum_Result" name="T-S" />
-    <item id="30"	 code="Common_CLTest_Sweep_BPMode700To1000_Spectrum_Result" name="T-S" />
-    <item id="31"	 code="Sweep_SQ_CLTest6_Sweep_ImpactSecondaryMag12k_Max80to325" name="T-S" />
-    <item id="32"	 code="Common_TestFlagUpdateToOTP_flagUpdateCheck" name="T-F" />
-    <item id="33"	 code="Sweep_SQ_CLTest_Sweep_ImpactPrimaryMag_Max80to325" name="T-S" />
-    <item id="34"	 code="Common_CLTest5_Sweep_BPMode600To700_Spectrum_Result" name="T-S" />
-    <item id="35"	 code="Sweep_SQ_CLTest2_Sweep_ImpactPrimaryMag_Max80to325" name="T-S" />
-    <item id="36"	 code="MiniTap_AWL_CLTest5_MiniTap200Hz_AWeightedSPL-Range" name="T-M" />
-    <item id="37"	 code="MiniTap_AWL_CLTest5_MiniTap300Hz_AWeightedSPL-Range" name="T-M" />
-    <item id="38"	 code="Common_SetCalDataToBender_testError" name="T-T" />
-    <item id="39"	 code="HallRdc_ImpedanceTest_HallResistance_Bottom" name="T-H" />
-    <item id="40"	 code="Vibe_AWL_CLTest5_Vibe200Hz_AWeightedSPL" name="T-V" />
-    <item id="41"	 code="MiniTap_AWL_CLTest5_MiniTap270Hz_AWeightedSPL-Range" name="T-M" />
-    <item id="42"	 code="MiniTap_AWL_CLTest5_MiniTap80Hz_AWeightedSPL-Range" name="T-M" />
-    <item id="43"	 code="Common_CLTest6_Sweep_BPMode495To600_Spectrum_Result" name="T-S" />
-    <item id="44"	 code="Sweep_SQ_CLTest5_Sweep_ImpactPrimaryMag_Max80to325" name="T-S" />
-    <item id="45"	 code="Common_CLTest2_Sweep_BPMode600To700_Spectrum_Result" name="T-S" />
-    <item id="46"	 code="Common_CDTFTest_testError" name="T-T" />
-    <item id="47"	 code="Vibe_AWL_CLTest5_Vibe100Hz_AWeightedSPL" name="T-V" />
-    <item id="48"	 code="Common_TestFlagCheckOTP_FailPrevious" name="T-F" />
-    <item id="49"	 code="Vibe_AWL_CLTest5_Vibe230Hz_AWeightedSPL" name="T-V" />
-    <item id="50"	 code="Common_TestFlagCheckOTP_flagUpdateCheck" name="T-F" />
-    <item id="51"	 code="MiniTap_AWL_CLTest5_MiniTap125Hz_AWeightedSPL-Range" name="T-M" />
-    <item id="52"	 code="Sweep_SQ_CLTest5_Sweep_ImpactSecondaryMag12k_Max80to325" name="T-S" />
-    <item id="53"	 code="Common_CLTest2_Sweep_BPMode495To600_Spectrum_Result" name="T-S" />
-    <item id="54"	 code="Others" name="其它" />
+    <item id="1"	 code="TravelMarginTest::TMTest::Delta_87_AWL" name="T-D" />
+    <item id="2"	 code="Sweep_SQ::CLTest::Sweep_ImpactSecondaryMag12k_Max80to325" name="T-S" />
+    <item id="3"	 code="Sweep_SQ::CLTest::Sweep_ImpactPrimaryMag12k_Max80to325" name="T-S" />
+    <item id="4"	 code="Rdc::ImpedanceTest::Resistance" name="T-R" />
+    <item id="5"	 code="Sweep_AWL::CLTest::Sweep_AWL_Max80to325" name="T-S" />
+    <item id="6"	 code="Sweep_SQ::CLTest2::Sweep_ImpactPrimaryMag12k_Max80to325" name="T-S" />
+    <item id="7"	 code="Sweep_FR::CLTest6::Sweep_FRSpectrumMask1_80Hz_155Hz_Max-Mag" name="T-S" />
+    <item id="8"	 code="HallOffset::ImpedanceTest::HallOffset_Sum_Um" name="T-H" />
+    <item id="9"	 code="TravelMarginTest::TMTest::Delta_885_AWL" name="T-D" />
+    <item id="10"	 code="TravelMarginTest::TMTest::AWL_87" name="T-A" />
+    <item id="11"	 code="TravelMarginTest::TMTest::AWL_885" name="T-A" />
+    <item id="12"	 code="Sweep_AWL::CLTest6::Sweep_AWL_Max80to325" name="T-S" />
+    <item id="13"	 code="Sweep_SQ::CLTest2::Sweep_ImpactSecondaryMag12k_Max80to325" name="T-S" />
+    <item id="14"	 code="Sweep_AWL::CLTest5::Sweep_AWL_Max80to325" name="T-S" />
+    <item id="15"	 code="TravelMarginTest::TMTest::AWL_Baseline" name="T-A" />
+    <item id="16"	 code="Sweep_SQ::CLTest5::Sweep_ImpactPrimaryMag12k_Max80to325" name="T-S" />
+    <item id="17"	 code="Sweep_FR::CLTest2::Sweep_FRSpectrumMask1_80Hz_155Hz_Max-Mag" name="T-S" />
+    <item id="18"	 code="Sweep_SQ::CLTest6::Sweep_ImpactPrimaryMag12k_Max80to325" name="T-S" />
+    <item id="19"	 code="MiniTap_AWL::CLTest5::MiniTap80Hz_AWeightedSPL" name="T-M" />
+    <item id="20"	 code="Sweep_AWL::CLTest2::Sweep_AWL_Max80to325" name="T-S" />
+    <item id="21"	 code="MiniTap_AWL::CLTest5::MiniTap150Hz_AWeightedSPL-Range" name="T-M" />
+    <item id="22"	 code="Common::ImpedanceTest::VMON" name="T-V" />
+    <item id="23"	 code="Sweep_FR::CLTest::Sweep_FRSpectrumMask2_155Hz_300Hz_Min-Mag" name="T-S" />
+    <item id="24"	 code="Common::TesterSetup::moduleAttach" name="T-M" />
+    <item id="25"	 code="Common::CLTest::Sweep_BPMode600To700_Spectrum_Result" name="T-S" />
+    <item id="26"	 code="Common::ImpedanceTest::I2S_Check" name="T-I" />
+    <item id="27"	 code="Common::CLTest5::Sweep_BPMode495To600_Spectrum_Result" name="T-S" />
+    <item id="28"	 code="Common::CLTest6::Sweep_BPMode600To700_Spectrum_Result" name="T-S" />
+    <item id="29"	 code="Common::CLTest::Sweep_BPMode495To600_Spectrum_Result" name="T-S" />
+    <item id="30"	 code="Common::CLTest::Sweep_BPMode700To1000_Spectrum_Result" name="T-S" />
+    <item id="31"	 code="Sweep_SQ::CLTest6::Sweep_ImpactSecondaryMag12k_Max80to325" name="T-S" />
+    <item id="32"	 code="Common::TestFlagUpdateToOTP::flagUpdateCheck" name="T-F" />
+    <item id="33"	 code="Sweep_SQ::CLTest::Sweep_ImpactPrimaryMag_Max80to325" name="T-S" />
+    <item id="34"	 code="Common::CLTest5::Sweep_BPMode600To700_Spectrum_Result" name="T-S" />
+    <item id="35"	 code="Sweep_SQ::CLTest2::Sweep_ImpactPrimaryMag_Max80to325" name="T-S" />
+    <item id="36"	 code="MiniTap_AWL::CLTest5::MiniTap200Hz_AWeightedSPL-Range" name="T-M" />
+    <item id="37"	 code="MiniTap_AWL::CLTest5::MiniTap300Hz_AWeightedSPL-Range" name="T-M" />
+    <item id="38"	 code="Common::SetCalDataToBender::testError" name="T-T" />
+    <item id="39"	 code="HallRdc::ImpedanceTest::HallResistance_Bottom" name="T-H" />
+    <item id="40"	 code="Vibe_AWL::CLTest5::Vibe200Hz_AWeightedSPL" name="T-V" />
+    <item id="41"	 code="MiniTap_AWL::CLTest5::MiniTap270Hz_AWeightedSPL-Range" name="T-M" />
+    <item id="42"	 code="MiniTap_AWL::CLTest5::MiniTap80Hz_AWeightedSPL-Range" name="T-M" />
+    <item id="43"	 code="Common::CLTest6::Sweep_BPMode495To600_Spectrum_Result" name="T-S" />
+    <item id="44"	 code="Sweep_SQ::CLTest5::Sweep_ImpactPrimaryMag_Max80to325" name="T-S" />
+    <item id="45"	 code="Common::CLTest2::Sweep_BPMode600To700_Spectrum_Result" name="T-S" />
+    <item id="46"	 code="Common::CDTFTest::testError" name="T-T" />
+    <item id="47"	 code="Vibe_AWL::CLTest5::Vibe100Hz_AWeightedSPL" name="T-V" />
+    <item id="48"	 code="Common::TestFlagCheckOTP::FailPrevious" name="T-F" />
+    <item id="49"	 code="Vibe_AWL::CLTest5::Vibe230Hz_AWeightedSPL" name="T-V" />
+    <item id="50"	 code="Common::TestFlagCheckOTP::flagUpdateCheck" name="T-F" />
+    <item id="51"	 code="MiniTap_AWL::CLTest5::MiniTap125Hz_AWeightedSPL-Range" name="T-M" />
+    <item id="52"	 code="Sweep_SQ::CLTest5::Sweep_ImpactSecondaryMag12k_Max80to325" name="T-S" />
+    <item id="53"	 code="Common::CLTest2::Sweep_BPMode495To600_Spectrum_Result" name="T-S" />
   </TR-COSM>
   <F-COSM>
     <item id="1"	 code="Damaged External Flex" name="底板FPC伤/破损" />
@@ -1234,10 +1223,10 @@
     <item id="9"	 code="Deformed External Flex Can" name="防护盖变形" />
     <item id="10"	 code="Offset Barcode Marking " name="二维码打印偏" />
     <item id="11"	 code="Scratched Barcode" name="二维码划伤" />
-    <item id="12"	 code="Protrusion welding point(L-frame)" name="L型外壳熔点鼓包" />
-    <item id="13"	 code="Welding point with hole(L-frame)" name="L型外壳熔点有洞" />
+    <item id="12"	 code="Protrusion welding point（L-frame）" name="L型外壳熔点鼓包" />
+    <item id="13"	 code="Welding point with hole（L-frame）" name="L型外壳熔点有洞" />
     <item id="14"	 code="Missed L-frame welding points" name="L型外壳熔点少" />
-    <item id="15"	 code="Welding with burr(L-frame)" name="L型外壳熔接起角" />
+    <item id="15"	 code="Welding with burr（L-frame）" name="L型外壳熔接起角" />
     <item id="16"	 code="L-frame and Cover misalignment" name="L型与上盖错位" />
     <item id="17"	 code="L-frame and Base misalignment" name="L型与底板错位" />
     <item id="18"	 code="Scratched L-frame" name="L型外壳伤" />
@@ -1355,6 +1344,5 @@
     <item id="130"	 code="MOTOR_FAI-118-S-B9" name="FAI-118-S-B9" />
     <item id="131"	 code="Profile  NG" name="AOI" />
     <item id="132"	 code="L-Frame with burr" name="L型外壳有披锋" />
-    <item id="133"	 code="Others" name="其它" />
   </F-COSM>
 </NGCODE>
