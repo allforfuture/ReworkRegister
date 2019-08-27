@@ -23,7 +23,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>false</MapFileExtensions>
-    <ApplicationRevision>1613</ApplicationRevision>
+    <ApplicationRevision>1645</ApplicationRevision>
     <ApplicationVersion>1.0.0823.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>

@@ -25,12 +25,12 @@ namespace ReworkRegisterAPP
                     //命令行参数的" "是向数组添加元素
                     //例如：传输"a b"，会接收到的数组{"a","b"}
                     //所以要传" "的话，先转换成另外的字符串，然后在接收段解析
-                    string exePath = System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName.Replace(" ","|_|");                    
+                    string exePath = System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName.Replace(" ", "|_|");
                     System.Diagnostics.Process.Start(@"Update\Update.exe", exePath);
                     Environment.Exit(0);
                 }
             }
-            catch (Exception ex) { MessageBox.Show(ex.Message, "Check for updates",MessageBoxButtons.OK,MessageBoxIcon.Warning); }
+            catch (Exception ex) { MessageBox.Show(ex.Message, "Check for updates", MessageBoxButtons.OK, MessageBoxIcon.Warning); }
             Application.Run(new Main2());
         }
     }

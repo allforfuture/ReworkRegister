@@ -2,13 +2,11 @@
 <root>
   <date display="现在" value="现在,今天,昨天"></date>
   <factory display="factory" value="M-1"></factory>
-  <line display="L02" value="L02,L03,L04,L05,L06"></line>
-  <process display="C-COSM" value="C-COSM,B-COSM,I-COSM,CA1-COSM,CA2-COSM,CA3-COSM,TU-COSM,D-COSM,CW-COSM,TA-COSM,H-COSM,VM-COSM,TR-COSM,F-COSM" ></process>
-  <processDetail value="C-COSM,B-COSM,I-COSM,CA1-COSM,CA2-COSM,CA3-COSM,TU-COSM,D-COSM,CW-COSM,TA-COSM,H-COSM,VM-COSM,TR-COSM,F-COSM" ></processDetail>
+  <process display="C-COSM" value="CS-COSM,C-COSM,BS-COSM,B-COSM,CA1-COSM,CA2-COSM,CA3-COSM,CLD-COSM,I-COSM,IG-COSM,LF-COSM,SW-COSM,TU-COSM,D-COSM,SS-COSM,BW-COSM,TA-COSM,H-COSM,ST-COSM,EA-COSM,VM-COSM,TR-COSM,F-COSM" ></process>
+  <processDetail value="Cover Shield,Cover Assy,Base Shield,Base Assy,Magnet Plate Welding,Magnet Insertion,Innermount Welding,Flexure CLD Assy,Inner Assy,Inner glue,L-Frame Assy-O/C Welding,Stiffener Welding,Tub Welding,Docking,Soft Stop Attach,Base Welding,Tab Welding,Hot Bar,South Tab Welding,Etching Label Attach,VMT,Trap4,Final Assy" ></processDetail>
   <time display="- -    " value="00:00:00,02:00:00,04:00:00,06:00:00,08:00:00,10:00:00,12:00:00,14:00:00,16:00:00,18:00:00,20:00:00,22:00:00"></time>
 
   <filepath path="C:\\csvOutput\\" ></filepath>
   <validation char="F" length="17" substring="0,1"></validation>
   <ftp ip="\\172.18.40.25\\C$\\public\\" user="administrator" password="" status="0" ></ftp>
-  <!--<ftp ip="\\172.27.36.32\\F$\\ZAFKPUZ\\" user="kk07user" password="nstd@2018" status="0" ></ftp>-->
 </root>

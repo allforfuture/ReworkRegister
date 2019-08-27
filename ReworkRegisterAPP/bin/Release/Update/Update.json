@@ -2,11 +2,11 @@
   "modeState": 1,
   "server": {
     "credential": "\\\\172.27.36.32;kk07user;nstd@2018",
-    "program": "\\\\172.27.36.32\\kk07\\13 SFC\\YYX\\3_Update\\ReworkRegisterAPPRelease\\ReworkRegisterAPP.exe",
-    "folder": "\\\\172.27.36.32\\kk07\\13 SFC\\YYX\\3_Update\\ReworkRegisterAPPRelease"
+    "program": "\\\\172.27.36.32\\kk07\\13 SFC\\YYX\\2_Release\\ReworkRegisterAPP\\ReworkRegisterAPPRelease\\ReworkRegisterAPP.exe",
+    "folder": "\\\\172.27.36.32\\kk07\\13 SFC\\YYX\\2_Release\\ReworkRegisterAPP\\ReworkRegisterAPPRelease"
   },
   "local": {
-    "preserveFile": [ "ReworkRegisterAPP.exe.config", "Setting.xml" ],
+    "preserveFile": [ "ReworkRegisterAPP.exe.config" ],
     "preserveFolder": []
   }
 }

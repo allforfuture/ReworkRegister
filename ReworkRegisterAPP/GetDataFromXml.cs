@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 
+//using System.Configuration;
+
 namespace ReworkRegisterAPP
 {
     public class GetDataFromXml
@@ -93,13 +95,19 @@ namespace ReworkRegisterAPP
             {
 
                 case "line":
-                    XmlNode xNode = nod.SelectSingleNode("line") ;
-                    strArray =xNode.Attributes["value"].Value.Split(',');
-                    string fNum = ((XmlElement)xNode).Attributes["display"].Value;
+                    //XmlNode xNode = nod.SelectSingleNode("line");
+                    //strArray = xNode.Attributes["value"].Value.Split(',');
+                    //string fNum = ((XmlElement)xNode).Attributes["display"].Value;
+                    //strArray = Ssort(fNum, strArray);
+
+                    //更新NgCodeSetting.xml是要和Setting.xml配对的，所以两个要一起更新节点
+                    //而更新Setting.xml时，要保留下拉框显示线别不变的话，将它写在其他位置，不然会被更新覆盖                    
+                    strArray = System.Configuration.ConfigurationManager.AppSettings["ComboBox_line"].Split(',');
+                    string fNum = System.Configuration.ConfigurationManager.AppSettings["ComboBox_lineDisplay"];
                     strArray = Ssort(fNum, strArray);
                     break;
                 case "process":
-                    xNode = nod.SelectSingleNode("process");
+                    XmlNode xNode = nod.SelectSingleNode("process");
                     strArray = xNode.Attributes["value"].Value.Split(',');
                     fNum = xNode.Attributes["display"].Value;
                     strArray = Ssort(fNum, strArray);
