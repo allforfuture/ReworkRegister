@@ -148,7 +148,6 @@ C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\bin\Release\ReworkRegist
 C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\bin\Release\ReworkRegisterAPP.exe
 C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\bin\Release\ReworkRegisterAPP.pdb
 C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\bin\Release\Newtonsoft.Json.dll
-C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Release\COSMAPP.csprojAssemblyReference.cache
 C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Release\ReworkRegisterAPP.Main2.resources
 C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Release\ReworkRegisterAPP.Main.resources
 C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Release\ReworkRegisterAPP.Properties.Resources.resources

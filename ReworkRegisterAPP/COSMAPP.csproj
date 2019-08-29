@@ -23,8 +23,8 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>false</MapFileExtensions>
-    <ApplicationRevision>1645</ApplicationRevision>
-    <ApplicationVersion>1.0.0823.%2a</ApplicationVersion>
+    <ApplicationRevision>1800</ApplicationRevision>
+    <ApplicationVersion>1.0.0829.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>

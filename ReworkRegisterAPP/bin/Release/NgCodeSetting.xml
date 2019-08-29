@@ -646,6 +646,7 @@
     <item id="26"	 code="Deformed L-Frame" name="外壳伤，变形" />
     <item id="27"	 code="Welding point with hole" name="熔点有洞" />
     <item id="28"	 code="Protrusion welding point" name="熔点鼓包" />
+    <item id="29"	 code="Others" name="其它" />
   </LF-COSM>
   <SW-COSM>
     <item id="1"	 code="L-Frame_FAI-5 X (X1-X2)" name="L-frame宽度 X(X1-X2)" />
@@ -689,6 +690,7 @@
     <item id="39"	 code="L-frame barcode marking light" name="外二维码打印浅" />
     <item id="40"	 code="Missed stiffener" name="漏增强板" />
     <item id="41"	 code="Double stiffener" name="双增强板" />
+    <item id="42"	 code="Others" name="其它" />
   </SW-COSM>
   <TU-COSM>
     <item id="1"	 code="Scratched L-frame" name="外壳伤" />
@@ -725,6 +727,7 @@
     <item id="32"	 code="FAI-7-L-Frame-Length(Y)" name="FAI-7" />
     <item id="33"	 code="FAI-4-L-Frame-Angle" name="FAI-4" />
     <item id="34"	 code="Welding point cracked" name="熔点裂" />
+    <item id="35"	 code="Others" name="其它" />
   </TU-COSM>
   <D-COSM>
     <item id="1"	 code="Barcode Scanning NG" name="二维码扫描异常" />
@@ -768,6 +771,7 @@
     <item id="39"	 code="DOCKING_FAI-35 Ladder Bumper-Flexure (X,East)" name="动子减震器到板簧(X)东" />
     <item id="40"	 code="DOCKING_FAI-36 Travel Gap (X,West)" name="动子减震器到软限位板（X）西" />
     <item id="41"	 code="DOCKING_FAI-36 Travel Gap (X,East)" name="动子减震器到软限位板（X）东" />
+    <item id="42"	 code="Others" name="其它" />
   </D-COSM>
   <SS-COSM>
     <item id="1"	 code="Barcode Scanning NG" name="二维码扫描异常" />
@@ -811,6 +815,7 @@
     <item id="39"	 code="DOCKING_FAI-35 Ladder Bumper - Flexure (X,East)" name="动子减震器到板簧(X)东" />
     <item id="40"	 code="DOCKING_FAI-36 Travel Gap (X,West)" name="动子减震器到软限位板(X)西" />
     <item id="41"	 code="DOCKING_FAI-36 Travel Gap (X,East)" name="动子减震器到软限位板(X)东" />
+    <item id="42"	 code="Others" name="其它" />
   </SS-COSM>
   <BW-COSM>
     <item id="1"	 code="FAI39-1(LU) Height Cage-Cover Z1" name="FAI39-Z1(上盖)/39-Z1" />
@@ -865,6 +870,7 @@
     <item id="50"	 code="Broken External Flex" name="上盖FPC断" />
     <item id="51"	 code="AE-63-Height " name="AE-63" />
     <item id="52"	 code="AAE-9-Profile-Z" name="AAE-9" />
+    <item id="53"	 code="Others" name="其它" />
   </BW-COSM>
   <TA-COSM>
     <item id="1"	 code="Welding with burr(East Tab)" name="东托片熔接起角" />
@@ -925,6 +931,7 @@
     <item id="56"	 code="MOTOR_FAI-50-C3_C6 Motor length(Y)" name="FAI-50-C3_C6" />
     <item id="57"	 code="MOTOR_FAI-50_MAX Motor length(Y)" name="FAI-50_MAX" />
     <item id="58"	 code="FAI-98-West Tab hole to L-Frame X" name="FAI-98" />
+    <item id="59"	 code="Others" name="其它" />
   </TA-COSM>
   <H-COSM>
     <item id="1"	 code="No Resistance" name="无内阻" />
@@ -985,6 +992,7 @@
     <item id="56"	 code="Scratched West Tab" name="西托片划伤" />
     <item id="57"	 code="Deformed East Tab" name="东托片变形" />
     <item id="58"	 code="Deformed West Tab" name="西托片变形" />
+    <item id="59"	 code="Others" name="其它" />
   </H-COSM>
   <ST-COSM>
     <item id="1"	 code="Welding with burr(South Tab)" name="南托片熔接起角" />
@@ -1055,6 +1063,7 @@
     <item id="66"	 code="Scratched West Tab" name="西托片划伤" />
     <item id="67"	 code="Deformed East Tab" name="东托片变形" />
     <item id="68"	 code="Deformed West Tab" name="西托片变形" />
+    <item id="69"	 code="Others" name="其它" />
   </ST-COSM>
   <EA-COSM>
     <item id="1"	 code="Damaged External Flex" name="底板FPC伤/破损" />
@@ -1134,6 +1143,7 @@
     <item id="75"	 code="Flex carrier tab miss cutting" name="底板FPC移除不良" />
     <item id="76"	 code="NTRS Fail" name="NTRS不良" />
     <item id="77"	 code="Etching NG(Cover)" name="上盖蚀刻发黑" />
+    <item id="78"	 code="Others" name="其它" />
   </EA-COSM>
   <VM-COSM>
     <item id="1"	 code="AET_KM::ChirpAET::MotorConstant" name="V-M" />
@@ -1155,6 +1165,7 @@
     <item id="17"	 code="Rdc::ImpedanceTest::Resistance" name="L-R" />
     <item id="18"	 code="Common::TesterSetup::I2C_Check" name="L-I" />
     <item id="19"	 code="Common::TestFlagClear::testError" name="L-T" />
+    <item id="20"	 code="Others" name="其它" />
   </VM-COSM>
   <TR-COSM>
     <item id="1"	 code="TravelMarginTest::TMTest::Delta_87_AWL" name="T-D" />
@@ -1210,6 +1221,7 @@
     <item id="51"	 code="MiniTap_AWL::CLTest5::MiniTap125Hz_AWeightedSPL-Range" name="T-M" />
     <item id="52"	 code="Sweep_SQ::CLTest5::Sweep_ImpactSecondaryMag12k_Max80to325" name="T-S" />
     <item id="53"	 code="Common::CLTest2::Sweep_BPMode495To600_Spectrum_Result" name="T-S" />
+    <item id="54"	 code="Others" name="其它" />
   </TR-COSM>
   <F-COSM>
     <item id="1"	 code="Damaged External Flex" name="底板FPC伤/破损" />
@@ -1344,5 +1356,6 @@
     <item id="130"	 code="MOTOR_FAI-118-S-B9" name="FAI-118-S-B9" />
     <item id="131"	 code="Profile  NG" name="AOI" />
     <item id="132"	 code="L-Frame with burr" name="L型外壳有披锋" />
+    <item id="133"	 code="Others" name="其它" />
   </F-COSM>
 </NGCODE>
