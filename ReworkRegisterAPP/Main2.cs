@@ -54,6 +54,13 @@ namespace ReworkRegisterAPP
                 user_txt.PasswordChar='\0'; //移除密码字符
                 */
                 if (user_txt.TextLength != 11) return;
+                //防止输入"２０１９０３０６０４１"做成的乱码
+                try { Convert.ToUInt64(user_txt.Text); }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "ID异常", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
+                }
                 user = user_txt.Text.ToUpper();
                 user_txt.Enabled = false;
                 barcode_txt.Enabled = true;

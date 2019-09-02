@@ -4,7 +4,7 @@
   <description asmv2:iconFile="ooopic_1516666664.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="ReworkRegisterAPP" version="1.0.829.1800" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="ReworkRegisterAPP" version="1.0.902.1030" language="neutral" processorArchitecture="msil" />
     <commandLine file="ReworkRegisterAPP.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -55,13 +55,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ReworkRegisterAPP.exe" size="241152">
-      <assemblyIdentity name="ReworkRegisterAPP" version="1.0.829.1800" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ReworkRegisterAPP" version="1.0.902.1030" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6iA/k8Qypoizq2pXlfFU5SeFMrAeN3cS8wnVSZMM6GA=</dsig:DigestValue>
+        <dsig:DigestValue>O8DQHmg8ymFcZ9mWMcHhe20gVNzw2vedoGYCwff/Sqs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

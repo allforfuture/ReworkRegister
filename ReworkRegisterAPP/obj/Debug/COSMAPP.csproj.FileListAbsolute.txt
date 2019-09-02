@@ -149,3 +149,24 @@ C:\Users\yyx19\Desktop\De bug\ReworkRegisterAPP.exe.manifest
 C:\Users\yyx19\Desktop\De bug\ReworkRegisterAPP.application
 C:\Users\yyx19\Desktop\De bug\ReworkRegisterAPP.exe
 C:\Users\yyx19\Desktop\De bug\ReworkRegisterAPP.pdb
+C:\Users\yyx19\Desktop\Debug\NgCodeSetting.xml
+C:\Users\yyx19\Desktop\Debug\Setting.xml
+C:\Users\yyx19\Desktop\Debug\UserInfo.xml
+C:\Users\yyx19\Desktop\Debug\Update\Update.json
+C:\Users\yyx19\Desktop\Debug\ReworkRegisterAPP.exe.config
+C:\Users\yyx19\Desktop\Debug\ReworkRegisterAPP.exe.manifest
+C:\Users\yyx19\Desktop\Debug\ReworkRegisterAPP.application
+C:\Users\yyx19\Desktop\Debug\ReworkRegisterAPP.exe
+C:\Users\yyx19\Desktop\Debug\ReworkRegisterAPP.pdb
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\ReworkRegisterAPP.Main2.resources
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\ReworkRegisterAPP.Main.resources
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\ReworkRegisterAPP.Properties.Resources.resources
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\ReworkRegisterAPP.UserForm.resources
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\COSMAPP.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\COSMAPP.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\ReworkRegisterAPP.TrustInfo.xml
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\ReworkRegisterAPP.exe.manifest
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\ReworkRegisterAPP.application
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\COSMAPP.csproj.CopyComplete
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\ReworkRegisterAPP.exe
+C:\Users\yyx19\Desktop\ReworkRegister\ReworkRegisterAPP\obj\Debug\ReworkRegisterAPP.pdb
