@@ -81,7 +81,7 @@
     <item id="46"	 code="Barcode Scanning NG" name="二维码扫描不良" />
     <item id="47"	 code="NTRS Fail" name="Fail" />
     <item id="48"	 code="NTRS Skip" name="Skip" />
-    <item id="49"	 code="Etching NG（Cover）" name="上盖激光蚀刻不良" />
+    <item id="49"	 code="Etching NG(Cover)" name="上盖激光蚀刻不良" />
     <item id="50"	 code="Others" name="其它" />
   </C-COSM>
   <BS-COSM>
@@ -403,7 +403,7 @@
     <item id="70"	 code="Deformed Outer Mount" name="外弹片变形" />
     <item id="71"	 code="Deformed Hard Stop" name="限位板变形" />
     <item id="72"	 code="Deformed Spring Flexure" name="板簧变形" />
-    <item id="73"	 code="Detached Spring Flexure" name="板簧脱落(设备剪托片）" />
+    <item id="73"	 code="Detached Spring Flexure" name="板簧脱落(设备剪托片)" />
     <item id="74"	 code="Damaged Magnet plate" name="背板伤" />
     <item id="75"	 code="Scratched cage" name="振动架伤" />
     <item id="76"	 code="Incoming material NG (Cage)" name="振动架来料不良" />
@@ -556,7 +556,7 @@
     <item id="70"	 code="Deformed Outer Mount" name="外弹片变形" />
     <item id="71"	 code="Deformed Hard Stop" name="限位板变形" />
     <item id="72"	 code="Deformed Spring Flexure" name="板簧变形" />
-    <item id="73"	 code="Detached Spring Flexure" name="板簧脱落(设备剪托片）" />
+    <item id="73"	 code="Detached Spring Flexure" name="板簧脱落(设备剪托片)" />
     <item id="74"	 code="Damaged Magnet plate" name="背板伤" />
     <item id="75"	 code="Adhesive overflow" name="胶水溢出" />
     <item id="76"	 code="Missed adhesive apply" name="漏点胶" />
@@ -621,18 +621,18 @@
     <item id="1"	 code="L-Frame_FAI-5 X (X1-X2)" name="L-frame宽度 X(X1-X2)" />
     <item id="2"	 code="L-Frame_FAI-4 X (X3-X4)" name="L-frame宽度 X(X3-X4)" />
     <item id="3"	 code="L-Frame_FAI-5 X (X5-X6)" name="L-frame宽度 X(X5-X6)" />
-    <item id="4"	 code="L-Frame_FAI-1 L-Frame Height (X1)" name="L-frame高度（X1)" />
-    <item id="5"	 code="L-Frame_FAI-1 L-Frame Height (X2)" name="L-frame高度（X2)" />
-    <item id="6"	 code="L-Frame_FAI-1 L-Frame Height (X3)" name="L-frame高度（X3)" />
-    <item id="7"	 code="L-Frame_FAI-1 L-Frame Height (X4)" name="L-frame高度（X4)" />
-    <item id="8"	 code="L-Frame_FAI-1 L-Frame Height (X5)" name="L-frame高度（X5)" />
-    <item id="9"	 code="L-Frame_FAI-1 L-Frame Height (X6)" name="L-frame高度（X6)" />
-    <item id="10"	 code="L-Frame_FAI-1 L-Frame Height (Y1)" name="L-frame高度（Y1)" />
-    <item id="11"	 code="L-Frame_FAI-1 L-Frame Height (Y2)" name="L-frame高度（Y2)" />
-    <item id="12"	 code="L-Frame_FAI-1 L-Frame Height (Y3)" name="L-frame高度（Y3)" />
-    <item id="13"	 code="L-Frame_FAI-1 L-Frame Height (Y4)" name="L-frame高度（Y4)" />
-    <item id="14"	 code="L-Frame_FAI-1 L-Frame Height (Y5)" name="L-frame高度（Y5)" />
-    <item id="15"	 code="L-Frame_FAI-1 L-Frame Height (Y6)" name="L-frame高度（Y6)" />
+    <item id="4"	 code="L-Frame_FAI-1 L-Frame Height (X1)" name="L-frame高度(X1)" />
+    <item id="5"	 code="L-Frame_FAI-1 L-Frame Height (X2)" name="L-frame高度(X2)" />
+    <item id="6"	 code="L-Frame_FAI-1 L-Frame Height (X3)" name="L-frame高度(X3)" />
+    <item id="7"	 code="L-Frame_FAI-1 L-Frame Height (X4)" name="L-frame高度(X4)" />
+    <item id="8"	 code="L-Frame_FAI-1 L-Frame Height (X5)" name="L-frame高度(X5)" />
+    <item id="9"	 code="L-Frame_FAI-1 L-Frame Height (X6)" name="L-frame高度(X6)" />
+    <item id="10"	 code="L-Frame_FAI-1 L-Frame Height (Y1)" name="L-frame高度(Y1)" />
+    <item id="11"	 code="L-Frame_FAI-1 L-Frame Height (Y2)" name="L-frame高度(Y2)" />
+    <item id="12"	 code="L-Frame_FAI-1 L-Frame Height (Y3)" name="L-frame高度(Y3)" />
+    <item id="13"	 code="L-Frame_FAI-1 L-Frame Height (Y4)" name="L-frame高度(Y4)" />
+    <item id="14"	 code="L-Frame_FAI-1 L-Frame Height (Y5)" name="L-frame高度(Y5)" />
+    <item id="15"	 code="L-Frame_FAI-1 L-Frame Height (Y6)" name="L-frame高度(Y6)" />
     <item id="16"	 code="L-frame welding point spatter" name="外壳熔接熔点飞溅" />
     <item id="17"	 code="L-frame welding point offset" name="外壳熔接熔点偏" />
     <item id="18"	 code="L-frame welding point missed" name="外壳熔接漏熔点 " />
@@ -652,18 +652,18 @@
     <item id="1"	 code="L-Frame_FAI-5 X (X1-X2)" name="L-frame宽度 X(X1-X2)" />
     <item id="2"	 code="L-Frame_FAI-4 X (X3-X4)" name="L-frame宽度 X(X3-X4)" />
     <item id="3"	 code="L-Frame_FAI-5 X (X5-X6)" name="L-frame宽度 X(X5-X6)" />
-    <item id="4"	 code="L-Frame_FAI-1 L-Frame Height (X1)" name="L-frame高度（X1)" />
-    <item id="5"	 code="L-Frame_FAI-1 L-Frame Height (X2)" name="L-frame高度（X2)" />
-    <item id="6"	 code="L-Frame_FAI-1 L-Frame Height (X3)" name="L-frame高度（X3)" />
-    <item id="7"	 code="L-Frame_FAI-1 L-Frame Height (X4)" name="L-frame高度（X4)" />
-    <item id="8"	 code="L-Frame_FAI-1 L-Frame Height (X5)" name="L-frame高度（X5)" />
-    <item id="9"	 code="L-Frame_FAI-1 L-Frame Height (X6)" name="L-frame高度（X6)" />
-    <item id="10"	 code="L-Frame_FAI-1 L-Frame Height (Y1)" name="L-frame高度（Y1)" />
-    <item id="11"	 code="L-Frame_FAI-1 L-Frame Height (Y2)" name="L-frame高度（Y2)" />
-    <item id="12"	 code="L-Frame_FAI-1 L-Frame Height (Y3)" name="L-frame高度（Y3)" />
-    <item id="13"	 code="L-Frame_FAI-1 L-Frame Height (Y4)" name="L-frame高度（Y4)" />
-    <item id="14"	 code="L-Frame_FAI-1 L-Frame Height (Y5)" name="L-frame高度（Y5)" />
-    <item id="15"	 code="L-Frame_FAI-1 L-Frame Height (Y6)" name="L-frame高度（Y6)" />
+    <item id="4"	 code="L-Frame_FAI-1 L-Frame Height (X1)" name="L-frame高度(X1)" />
+    <item id="5"	 code="L-Frame_FAI-1 L-Frame Height (X2)" name="L-frame高度(X2)" />
+    <item id="6"	 code="L-Frame_FAI-1 L-Frame Height (X3)" name="L-frame高度(X3)" />
+    <item id="7"	 code="L-Frame_FAI-1 L-Frame Height (X4)" name="L-frame高度(X4)" />
+    <item id="8"	 code="L-Frame_FAI-1 L-Frame Height (X5)" name="L-frame高度(X5)" />
+    <item id="9"	 code="L-Frame_FAI-1 L-Frame Height (X6)" name="L-frame高度(X6)" />
+    <item id="10"	 code="L-Frame_FAI-1 L-Frame Height (Y1)" name="L-frame高度(Y1)" />
+    <item id="11"	 code="L-Frame_FAI-1 L-Frame Height (Y2)" name="L-frame高度(Y2)" />
+    <item id="12"	 code="L-Frame_FAI-1 L-Frame Height (Y3)" name="L-frame高度(Y3)" />
+    <item id="13"	 code="L-Frame_FAI-1 L-Frame Height (Y4)" name="L-frame高度(Y4)" />
+    <item id="14"	 code="L-Frame_FAI-1 L-Frame Height (Y5)" name="L-frame高度(Y5)" />
+    <item id="15"	 code="L-Frame_FAI-1 L-Frame Height (Y6)" name="L-frame高度(Y6)" />
     <item id="16"	 code="L-FRAME_FAI-7" name="FAI-7" />
     <item id="17"	 code="L-Frame_FAI-8 L-Frame outside - Stiffener" name="FAI-8" />
     <item id="18"	 code="L-Frame_FAI-9 Thickness L-Frame and Stiffener" name="FAI-9" />
@@ -765,12 +765,12 @@
     <item id="33"	 code="DOCKING_FAI-31 L-Frame-Soft Stop (Y,East)" name="L-frame-软限位板 (Y)东" />
     <item id="34"	 code="DOCKING_FAI-32 L-Frame-Soft Stop (Z,West)" name="L-frame-软限位板 (Z)西" />
     <item id="35"	 code="DOCKING_FAI-33 L-Frame-Soft Stop (Z,East)" name="L-frame-软限位板 (Z)东" />
-    <item id="36"	 code="DOCKING_FAI-34 L-Frame Bumper-Flexure (X,West)" name="L型外壳减震器-板簧（X)西" />
+    <item id="36"	 code="DOCKING_FAI-34 L-Frame Bumper-Flexure (X,West)" name="L型外壳减震器-板簧(X)西" />
     <item id="37"	 code="DOCKING_FAI-34 L-Frame Bumper-Flexure (X,East)" name="L型外壳减震器-板簧(X)东" />
     <item id="38"	 code="DOCKING_FAI-35 Ladder Bumper-Flexure (X,West)" name="动子减震器到板簧(X)西" />
     <item id="39"	 code="DOCKING_FAI-35 Ladder Bumper-Flexure (X,East)" name="动子减震器到板簧(X)东" />
-    <item id="40"	 code="DOCKING_FAI-36 Travel Gap (X,West)" name="动子减震器到软限位板（X）西" />
-    <item id="41"	 code="DOCKING_FAI-36 Travel Gap (X,East)" name="动子减震器到软限位板（X）东" />
+    <item id="40"	 code="DOCKING_FAI-36 Travel Gap (X,West)" name="动子减震器到软限位板(X)西" />
+    <item id="41"	 code="DOCKING_FAI-36 Travel Gap (X,East)" name="动子减震器到软限位板(X)东" />
     <item id="42"	 code="Others" name="其它" />
   </D-COSM>
   <SS-COSM>
@@ -822,12 +822,12 @@
     <item id="2"	 code="FAI39-2(LD) Height Cage-Cover Z2" name="FAI39-Z2(上盖)/39-Z2" />
     <item id="3"	 code="FAI39-3(RU) Height Cage-Cover Z3" name="FAI39-Z3(上盖)/39-Z3" />
     <item id="4"	 code="FAI39-4(RD) Height Cage-Cover Z4" name="FAI39-Z4(上盖)/39-Z4" />
-    <item id="5"	 code="Motor flatness C-1 NG(Cover)" name="列1（上盖）" />
+    <item id="5"	 code="Motor flatness C-1 NG(Cover)" name="列1(上盖)" />
     <item id="6"	 code="FAI41-4(LU) Height Cage-Base Z5" name="FAI26-4(底板)/41-Z5" />
     <item id="7"	 code="FAI41-3(LD) Height Cage-Base Z6" name="FAI26-3(底板)/41-Z6" />
     <item id="8"	 code="FAI41-2(RU) Height Cage-Base Z7" name="FAI25-2(底板)41-Z7" />
     <item id="9"	 code="FAI41-1(RD) Height Cage-Base Z8" name="FAI25-1(底板)41-Z8" />
-    <item id="10"	 code="Motor flatness C-1 NG(Base)" name="列1（底板）" />
+    <item id="10"	 code="Motor flatness C-1 NG(Base)" name="列1(底板)" />
     <item id="11"	 code="MOTOR_Y_GAP_Q1" name="FAI-45/43" />
     <item id="12"	 code="MOTOR_Y_GAP_Q2" name="FAI-46/44" />
     <item id="13"	 code="MOTOR_Y_GAP_Q3" name="FAI-47/45" />
@@ -916,8 +916,8 @@
     <item id="41"	 code="Offset Barcode Marking" name="二维码打印偏" />
     <item id="42"	 code="Double Barcode Marking " name="二维码打重印" />
     <item id="43"	 code="Barcode rank NG" name="二维码等级不良" />
-    <item id="44"	 code="MOTOR_FAI-57-East Tab Height-Average Base Datum" name="托片高度不良（东）" />
-    <item id="45"	 code="MOTOR_FAI-56-West Tab Height-Average Base Datum" name="托片高度不良（西）" />
+    <item id="44"	 code="MOTOR_FAI-57-East Tab Height-Average Base Datum" name="托片高度不良(东)" />
+    <item id="45"	 code="MOTOR_FAI-56-West Tab Height-Average Base Datum" name="托片高度不良(西)" />
     <item id="46"	 code="MOTOR_FAI-51 West tab hole to datum B(Y)" name="FAI-51B(Y)" />
     <item id="47"	 code="MOTOR_FAI-53 East tab hole to datum B(Y)" name="FAI-53" />
     <item id="48"	 code="MOTOR_FAI-96 East tab hole to West tab hole(X)" name="FAI-96" />
@@ -961,13 +961,13 @@
     <item id="25"	 code="Foreign matter attached on Insulation tape" name="绝缘片异物" />
     <item id="26"	 code="Flex carrier tab cutting NG" name="底板FPC移除不良" />
     <item id="27"	 code="Insufficient hot bar solder coverage(Less than 50%)" name="焊盘锡低于50%" />
-    <item id="28"	 code="Protrusion welding point（L-frame）" name="L型外壳熔点鼓包" />
-    <item id="29"	 code="Welding point with hole（L-frame）" name="L型外壳熔点有洞" />
+    <item id="28"	 code="Protrusion welding point(L-frame)" name="L型外壳熔点鼓包" />
+    <item id="29"	 code="Welding point with hole(L-frame)" name="L型外壳熔点有洞" />
     <item id="30"	 code="Missed L-frame welding points" name="L型外壳熔点少" />
     <item id="31"	 code="Welding point spatter(L-frame)" name="L型外壳熔点飞溅" />
     <item id="32"	 code="Offset welding point(L-frame)" name="L型外壳熔接点偏" />
     <item id="33"	 code="Welding point crack(L-frame)" name="L型外壳熔点裂" />
-    <item id="34"	 code="Welding with burr（L-frame）" name="L型外壳熔接起角" />
+    <item id="34"	 code="Welding with burr(L-frame)" name="L型外壳熔接起角" />
     <item id="35"	 code="L-frame and Cover misalignment" name="L型与上盖错位" />
     <item id="36"	 code="L-frame and Base misalignment" name="L型与底板错位" />
     <item id="37"	 code="Scratched L-frame" name="L型外壳伤" />
@@ -1008,7 +1008,7 @@
     <item id="11"	 code="MOTOR_FAI-95 West Tab hole to South Tab hole(Y)" name="FAI-95" />
     <item id="12"	 code="MOTOR_FAI-55 West Tab hole to South Tab hole(X)" name="FAI-55" />
     <item id="13"	 code="MOTOR_FAI-104 West Tab hole to South Tab wall(X)" name="FAI-104" />
-    <item id="14"	 code="MOTOR_FAI-58-South Tab Height-Average Base Datum" name="托片高度不良（南）" />
+    <item id="14"	 code="MOTOR_FAI-58-South Tab Height-Average Base Datum" name="托片高度不良(南)" />
     <item id="15"	 code="Damaged External Flex" name="底板FPC伤/破损" />
     <item id="16"	 code="Broken External Flex" name="底板FPC断" />
     <item id="17"	 code="Floated Externa Flex(HAF area)" name="底板FPC浮起(HAF浮起)" />
@@ -1032,13 +1032,13 @@
     <item id="35"	 code="Foreign matter attached on Insulation tape" name="绝缘片异物" />
     <item id="36"	 code="Flex carrier tab cutting NG" name="底板FPC移除不良" />
     <item id="37"	 code="Insufficient hot bar solder coverage(Less than 50%)" name="焊盘锡低于50%" />
-    <item id="38"	 code="Protrusion welding point（L-frame）" name="L型外壳熔点鼓包" />
-    <item id="39"	 code="Welding point with hole（L-frame）" name="L型外壳熔点有洞" />
+    <item id="38"	 code="Protrusion welding point(L-frame)" name="L型外壳熔点鼓包" />
+    <item id="39"	 code="Welding point with hole(L-frame)" name="L型外壳熔点有洞" />
     <item id="40"	 code="Missed L-frame welding points" name="L型外壳熔点少" />
     <item id="41"	 code="Welding point spatter(L-frame)" name="L型外壳熔点飞溅" />
     <item id="42"	 code="Offset welding point(L-frame)" name="L型外壳熔接点偏" />
     <item id="43"	 code="Welding point crack(L-frame)" name="L型外壳熔点裂" />
-    <item id="44"	 code="Welding with burr（L-frame）" name="L型外壳熔接起角" />
+    <item id="44"	 code="Welding with burr(L-frame)" name="L型外壳熔接起角" />
     <item id="45"	 code="L-frame and Cover misalignment" name="L型与上盖错位" />
     <item id="46"	 code="L-frame and Base misalignment" name="L型与底板错位" />
     <item id="47"	 code="Scratched L-frame" name="L型外壳伤" />
@@ -1077,10 +1077,10 @@
     <item id="9"	 code="Deformed External Flex Can" name="防护盖变形" />
     <item id="10"	 code="Offset Barcode Marking " name="二维码打印偏" />
     <item id="11"	 code="Scratched Barcode" name="二维码划伤" />
-    <item id="12"	 code="Protrusion welding point（L-frame）" name="L型外壳熔点鼓包" />
-    <item id="13"	 code="Welding point with hole（L-frame）" name="L型外壳熔点有洞" />
+    <item id="12"	 code="Protrusion welding point(L-frame)" name="L型外壳熔点鼓包" />
+    <item id="13"	 code="Welding point with hole(L-frame)" name="L型外壳熔点有洞" />
     <item id="14"	 code="Missed L-frame welding points" name="L型外壳熔点少" />
-    <item id="15"	 code="Welding with burr（L-frame）" name="L型外壳熔接起角" />
+    <item id="15"	 code="Welding with burr(L-frame)" name="L型外壳熔接起角" />
     <item id="16"	 code="L-frame and Cover misalignment" name="L型与上盖错位" />
     <item id="17"	 code="L-frame and Base misalignment" name="L型与底板错位" />
     <item id="18"	 code="Scratched L-frame" name="L型外壳伤" />
@@ -1235,10 +1235,10 @@
     <item id="9"	 code="Deformed External Flex Can" name="防护盖变形" />
     <item id="10"	 code="Offset Barcode Marking " name="二维码打印偏" />
     <item id="11"	 code="Scratched Barcode" name="二维码划伤" />
-    <item id="12"	 code="Protrusion welding point（L-frame）" name="L型外壳熔点鼓包" />
-    <item id="13"	 code="Welding point with hole（L-frame）" name="L型外壳熔点有洞" />
+    <item id="12"	 code="Protrusion welding point(L-frame)" name="L型外壳熔点鼓包" />
+    <item id="13"	 code="Welding point with hole(L-frame)" name="L型外壳熔点有洞" />
     <item id="14"	 code="Missed L-frame welding points" name="L型外壳熔点少" />
-    <item id="15"	 code="Welding with burr（L-frame）" name="L型外壳熔接起角" />
+    <item id="15"	 code="Welding with burr(L-frame)" name="L型外壳熔接起角" />
     <item id="16"	 code="L-frame and Cover misalignment" name="L型与上盖错位" />
     <item id="17"	 code="L-frame and Base misalignment" name="L型与底板错位" />
     <item id="18"	 code="Scratched L-frame" name="L型外壳伤" />
