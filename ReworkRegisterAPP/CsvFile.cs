@@ -21,6 +21,7 @@ namespace ReworkRegisterAPP
         public string Module2 { get; set; }
         public string x2 { get; set; }
         public int Year { get; set; }
+        public string Str { get { return ""; } }
         public int Month { get; set; }
         public int Day { get; set; }
         public int Hour { get; set; }
@@ -28,6 +29,8 @@ namespace ReworkRegisterAPP
         public int Second { get; set; }
         public int Faci_num { get; set; }
         public string Faci { get; set; }
+        public string upperLimit { get { return "N/A"; } }
+        public string lowerLimit { get { return "N/A"; } }
         public int faci_value { get; set; }
         public int Item_result { get; set; }
         public int All_result { get; set; }
@@ -119,8 +122,8 @@ namespace ReworkRegisterAPP
                             foreach (CsvFile c in files)
                             {
                                 str = str + c.Model + "," + c.Site + "," + c.Factory + "," + c.Line + "," + c.Process + "," +
-                                    c.Module + "," + c.Module2 + "," + c.x2 + "," + c.Year + "," + c.Month + "," + c.Day + "," + c.Hour + "," + c.Minute + "," +
-                                    c.Second + "," + c.Faci_num + "," + c.Faci + "," + c.faci_value + "," + c.Item_result + "," + c.All_result + "," + c.Item_num + "," + c.Op_type + "," + c.Op_value + "\r\n";
+                                    c.Module + "," + c.Module2 + "," + c.x2 + "," + c.Str + "," + c.Year + "," + c.Month + "," + c.Day + "," + c.Hour + "," + c.Minute + "," +
+                                    c.Second + "," + c.Faci_num + "," + c.Faci + "," + c.upperLimit + "," + c.lowerLimit + "," + c.faci_value + "," + c.Item_result + "," + c.All_result + "," + c.Item_num + "," + c.Op_type + "," + c.Op_value + "\r\n";
 
                             }
 

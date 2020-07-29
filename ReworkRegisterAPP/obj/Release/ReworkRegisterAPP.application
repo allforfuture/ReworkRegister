@@ -7,14 +7,14 @@
     <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="ReworkRegisterAPP.exe.manifest" size="7455">
+    <dependentAssembly dependencyType="install" codebase="ReworkRegisterAPP.exe.manifest" size="7459">
       <assemblyIdentity name="ReworkRegisterAPP.exe" version="1.0.0829.1800" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NTdEUaPU3Im6sDrbQ/bZaQzpWftpm0U58g4iZyYZaOs=</dsig:DigestValue>
+        <dsig:DigestValue>rOIn8nxRSLkkgDp/BPSq6jl3O0KdRN/PM8SEDLackk4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
