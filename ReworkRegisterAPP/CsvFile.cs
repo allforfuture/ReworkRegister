@@ -119,14 +119,26 @@ namespace ReworkRegisterAPP
                         string str = string.Empty;
                         using (StreamWriter sw = new StreamWriter(fs,Encoding.Default))
                         {
-                            foreach (CsvFile c in files)
+                            bool isNewFormat = System.Configuration.ConfigurationManager.AppSettings["isNewFormat"] == "0" ? false : true;
+                            if (isNewFormat)
                             {
-                                str = str + c.Model + "," + c.Site + "," + c.Factory + "," + c.Line + "," + c.Process + "," +
-                                    c.Module + "," + c.Module2 + "," + c.x2 + "," + c.Str + "," + c.Year + "," + c.Month + "," + c.Day + "," + c.Hour + "," + c.Minute + "," +
-                                    c.Second + "," + c.Faci_num + "," + c.Faci + "," + c.upperLimit + "," + c.lowerLimit + "," + c.faci_value + "," + c.Item_result + "," + c.All_result + "," + c.Item_num + "," + c.Op_type + "," + c.Op_value + "\r\n";
-
+                                foreach (CsvFile c in files)
+                                {
+                                    str = str + c.Model + "," + c.Site + "," + c.Factory + "," + c.Line + "," + c.Process + "," +
+                                        c.Module + "," + c.Module2 + "," + c.x2 + "," + c.Str + "," + c.Year + "," + c.Month + "," + c.Day + "," + c.Hour + "," + c.Minute + "," +
+                                        c.Second + "," + c.Faci_num + "," + c.Faci + "," + c.upperLimit + "," + c.lowerLimit + "," + c.faci_value + "," + c.Item_result + "," + c.All_result + "," + c.Item_num + "," + c.Op_type + "," + c.Op_value + "\r\n";
+                                }
                             }
-
+                            else
+                            {
+                                foreach (CsvFile c in files)
+                                {
+                                    str = str + c.Model + "," + c.Site + "," + c.Factory + "," + c.Line + "," + c.Process + "," +
+                                        c.Module + "," + c.Module2 + "," + c.x2 + "," + c.Year + "," + c.Month + "," + c.Day + "," + c.Hour + "," + c.Minute + "," +
+                                        c.Second + "," + c.Faci_num + "," + c.Faci + "," + c.faci_value + "," + c.Item_result + "," + c.All_result + "," + c.Item_num + "," + c.Op_type + "," + c.Op_value + "\r\n";
+                                }
+                            }
+                            
                             sw.Write(str);
                             sw.Flush();
                         }
